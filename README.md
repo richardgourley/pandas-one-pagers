@@ -64,10 +64,13 @@ jupyter notebooks
 
 ### If you are new to Pandas or Python
 
+- Just open up the 'pandas-one-pager.ipynb' file and start using the examples.
+
 1. Make sure you learn Python and SQL basics before Pandas (my recommendation)
 2. This pandas intro course is useful - https://www.youtube.com/watch?v=WcDaZ67TVRo&t=7270s
 
-- Just open up the 'pandas-one-pager.ipynb' file and start using the examples.
+Pandas docs:
+https://pandas.pydata.org/pandas-docs/stable/index.html
 
 ### Setting up Jupyter Notebooks
 
