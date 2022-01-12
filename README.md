@@ -8,7 +8,7 @@ Even as a fairly seasoned Python developer and having a good knowledge of SQL, I
 
 I find it easier to have base examples in one place. I often use this guide to remind myself of syntax when performing analysis with Pandas.
 
-Everything I have had to double check is here. There are a lot of examples on how to perform SQL/ Excel type queries and actions within Pandas.
+Everything I have had to double check is here. There are a lot of examples on how to perform SQL/ Excel type queries and actions with Pandas.
 
 ### What its not
 
@@ -44,16 +44,17 @@ Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
 23. Columns - change data type - FLOAT to INTEGER
 24. Columns - create a new string column based on logic in APPLY() method
 25. Columns and Dates - create a year and month column from a date
-26. Data Frame - use the APPLY() method with a LAMBDA function on an entire dataframe
-27. NaN - convert missing numerical data to 0 with FILLNA()
-28. Group By - counting columns
-29. Group By - counting by percentage
-30. Pivot - PIVOT() example
-31. Pivot 2 - PIVOT() example with grouped dates sales
-32. Head and Tail
-33. Pivot - PIVOT_TABLE() - aggregated functions
-34. Pivot table percentages - FLOAT to 2 decimal places
-35. openpyxl - save dataframes to different Excel workbook sheets
+26. Columns - change the names of your columns
+27. Data Frame - use the APPLY() method with a LAMBDA function on an entire dataframe
+28. NaN - convert missing numerical data to 0 with FILLNA()
+29. Group By - counting columns
+30. Group By - counting by percentage
+31. Pivot - PIVOT() example
+32. Pivot 2 - PIVOT() example with grouped dates sales
+33. Head and Tail
+34. Pivot - PIVOT_TABLE() - aggregated functions
+35. Pivot table percentages - FLOAT to 2 decimal places
+36. openpyxl - save dataframes to different Excel workbook sheets
 
 ## TOOLS
 pandas
