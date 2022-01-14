@@ -19,45 +19,83 @@ It's more of a syntax reference or a quick place to remind yourself how to do so
 ## FEATURES
 Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
 
-Data Frame - Creation with a Dictionary
-Date Frame - Creation from a list of lists
-Data Frame - Creation from a list of lists - with unique Index
-Data Frame - Creation from a CSV or Excel spreadsheet
-Data Types - exploring column data types
-Columns - Remove an unnecessary column
-Sort - apply a sort to an existing dataframe
-Index - reset index numbers after a sort
-Index - Drop an Index from a dataframe when exporting
-Find a specific row - based on a search string
-Find rows based on filtering numbers (greater than)
-Find rows based on str.contains (similar to SQL like)
-Find a specific row - based on Index Number
-Find specific cell data - based on Index Number
-Find specific cell data - based on a search
-Series - convert a series to Dataframe and a List
-Add a row
-Add a row - based on previous row data
-Update a cell - based on Index Number
-Columns - adding a new Column
-Columns - deleting a column
-Columns - create a new column from a sum
-Columns - create a new column with the APPLY() method
-Columns - change data type - FLOAT to INTEGER
-Columns - create a new string column based on logic in APPLY() method
-Columns and Dates - create a year and month column from a date
-Columns - change the names of your columns
-Data Frame - use the APPLY() method with a LAMBDA function on an entire dataframe
-NaN - use ISNULL() to find null values
-NaN - use na=False to find NaN AND non-string values
-NaN - convert missing numerical data to 0 with FILLNA()
-Group By - counting columns
-Group By - counting by percentage
-Pivot - PIVOT() example
-Pivot 2 - PIVOT() example with grouped dates sales
-Head and Tail
-Pivot - PIVOT_TABLE() - aggregated functions
-Pivot table percentages - FLOAT to 2 decimal places
-openpyxl - save dataframes to different Excel workbook sheets
+1. Data Frame - Creation with a Dictionary
+
+2. Date Frame - Creation from a list of lists
+
+3. Data Frame - Creation from a list of lists - with unique Index
+
+4. Data Frame - Creation from a CSV or Excel spreadsheet
+
+5. Data Types - exploring column data types
+
+6. Columns - Remove an unnecessary column
+
+7. Sort - apply a sort to an existing dataframe
+
+8. Index - reset index numbers after a sort
+
+9. Index - Drop an Index from a dataframe when exporting
+
+10. Find a specific row - based on a search string
+
+11. Find rows based on filtering numbers (greater than)
+
+12. Find rows based on str.contains (similar to SQL like)
+
+13. Find a specific row - based on Index Number
+
+14. Find specific cell data - based on Index Number
+
+15. Find specific cell data - based on a search
+
+16. Series - convert a series to Dataframe and a List
+
+17. Add a row
+
+18. Add a row - based on previous row data
+
+19. Update a cell - based on Index Number
+
+20. Columns - adding a new Column
+
+21. Columns - deleting a column
+
+22. Columns - create a new column from a sum
+
+23. Columns - create a new column with the APPLY() method
+
+24. Columns - change data type - FLOAT to INTEGER
+
+25. Columns - create a new string column based on logic in APPLY() method
+
+26. Columns and Dates - create a year and month column from a date
+
+27. Columns - change the names of your columns
+
+28. Data Frame - use the APPLY() method with a LAMBDA function on an entire dataframe
+
+29. NaN - use ISNULL() to find null values
+
+30. NaN - use na=False to find NaN AND non-string values
+
+31. NaN - convert missing numerical data to 0 with FILLNA()
+
+32. Group By - counting columns
+
+33. Group By - counting by percentage
+
+34. Pivot - PIVOT() example
+
+35. Pivot 2 - PIVOT() example with grouped dates sales
+
+36. Head and Tail
+
+37. Pivot - PIVOT_TABLE() - aggregated functions
+
+38. Pivot table percentages - FLOAT to 2 decimal places
+
+39. openpyxl - save dataframes to different Excel workbook sheets
 
 ## TOOLS
 pandas
