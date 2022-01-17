@@ -12,9 +12,12 @@ Everything I have had to double check is here. There are a lot of examples on ho
 
 ### What its not
 
-It isn't a full Pandas guide or tutorial.  It doesn't even scratch the surface of what you can do with Pandas but it's a useful syntax guide that I refer to all the time to perform most data anlytics tasks.
+It isn't a full Pandas guide or tutorial.  It doesn't even scratch the surface of what you can do with Pandas but it's a useful syntax guide that I refer to all the time.
 
 It's more of a syntax reference or a quick place to remind yourself how to do something.
+
+For a fuller Data Analysis process example with Pandas and charts made with Matplotlib, visit my other repo here:
+https://github.com/richardgourley/fortune-global-2000-in-2021
 
 ## FEATURES
 Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
