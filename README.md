@@ -4,20 +4,15 @@
 
 ### Reasons for it
 
-Even as a fairly seasoned Python developer and having a good knowledge of SQL, I found myself having to constantly jump around various places checking Pandas syntax in the beginning.
+Here is my own personal pandas one pager guide.
 
-I find it easier to have base examples in one place. I often use this guide to remind myself of syntax when performing analysis with Pandas.
+Even with Python and SQL experience, it can take a little while to get used to Pandas and dataframes.  I found that compiling this one pager pandas guide saved me a lot of repetitive searching and I find it useful in daily analysis work. Hope it is useful to some people learning Pandas!
 
-Everything I have had to double check is here. There are a lot of examples on how to perform SQL/ Excel type queries and actions with Pandas.
+### What it is not
 
-### What its not
+It isn't a full Pandas guide or tutorial.
 
-It isn't a full Pandas guide or tutorial.  It doesn't even scratch the surface of what you can do with Pandas but it's a useful syntax guide that I refer to all the time.
-
-It's more of a syntax reference or a quick place to remind yourself how to do something.
-
-For a fuller Data Analysis process example with Pandas and charts made with Matplotlib, visit my other repo here:
-https://github.com/richardgourley/fortune-global-2000-in-2021
+It doesn't even scratch the surface of what you can do with Pandas but it's a useful syntax guide that I refer to all the time.
 
 ## FEATURES
 Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
@@ -42,9 +37,9 @@ Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
 
 10. Find a specific row - based on a search string
 
-11. Find rows based on filtering numbers (greater than)
+11. Find rows based on str.contains (similar to SQL like)
 
-12. Find rows based on str.contains (similar to SQL like)
+12. Find rows based on filtering numbers (greater than)
 
 13. Find a specific row - based on Index Number
 
@@ -52,7 +47,7 @@ Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
 
 15. Find specific cell data - based on a search
 
-16. Series - convert a series to Dataframe and a List
+16. Series - convert a series to a Dataframe or a List
 
 17. Add a row
 
@@ -88,17 +83,21 @@ Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
 
 33. Group By - counting by percentage
 
-34. Pivot - PIVOT() example
+34. Joins - Inner Join dataframes
 
-35. Pivot 2 - PIVOT() example with grouped dates sales
+35. Joins - Left Join  dataframes
 
-36. Head and Tail
+36. Pivot - PIVOT() example
 
-37. Pivot - PIVOT_TABLE() - aggregated functions
+37. Pivot 2 - PIVOT() example with grouped dates sales
 
-38. Pivot table percentages - FLOAT to 2 decimal places
+38. Head and Tail
 
-39. openpyxl - save dataframes to different Excel workbook sheets
+39. Pivot - PIVOT_TABLE() - aggregated functions
+
+40. Pivot table percentages - FLOAT to 2 decimal places
+
+41. openpyxl - save dataframes to different Excel workbook sheets
 
 ## TOOLS
 pandas
