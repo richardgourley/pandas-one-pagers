@@ -25,9 +25,9 @@ Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
 
 4. Data Frame - Creation from a CSV or Excel spreadsheet
 
-5. Data Types - exploring column data types
+5. Columns - Remove an unnecessary column
 
-6. Columns - Remove an unnecessary column
+6. Data Types - exploring column data types
 
 7. Sort - apply a sort to an existing dataframe
 
