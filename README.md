@@ -100,8 +100,11 @@ Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
 41. openpyxl - save dataframes to different Excel workbook sheets
 
 ## TOOLS
+
 pandas
+
 openpyxl
+
 jupyter notebooks
 
 ## GETTING STARTED
