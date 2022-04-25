@@ -14,7 +14,7 @@ It isn't a full Pandas guide or tutorial.
 
 It doesn't even scratch the surface of what you can do with Pandas but it's a useful syntax guide that I refer to all the time.
 
-## FEATURES
+## FEATURES/ CONTENTS
 Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
 
 1. Data Frame - Creation with a Dictionary
@@ -98,6 +98,136 @@ Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
 40. Pivot table percentages - FLOAT to 2 decimal places
 
 41. openpyxl - save dataframes to different Excel workbook sheets
+
+
+======== 1. DATA FRAMES ====================
+
+======== DATA FRAME CREATION, DATA FRAME FROM FILES ==============
+
+Data Frame - Creation with a Dictionary
+
+Date Frame - Creation from a list of lists
+
+Data Frame - Creation from a list of lists - with unique Index
+
+Data Frame - Creation from a CSV or Excel spreadsheet
+
+============ 2. BASIC PANDAS ==========================
+
+========== HEAD AND TAIL, REMOVE COLUMNS, EXPLORE DATA TYPES, BASIC SORTING, INDEX - DROP AND RESET =========
+
+Head and Tail
+
+Columns - Remove an unnecessary column
+
+Data Types - exploring column data types
+
+Sort - apply a sort to an existing dataframe
+
+Index - reset index numbers after a sort
+
+Index - Drop an Index from a dataframe when exporting
+
+=============== 3. FIND, UPDATE AND ADD ================================
+
+============== FIND ROWS AND CELL DATA, UPDATE CELLS, ADD ROWS =========
+
+Find a specific row - based on a search string
+
+Find rows based on str.contains (similar to SQL like)
+
+Find rows based on filtering numbers (greater than)
+
+Find a specific row - based on Index Number
+
+Find specific cell data - based on Index Number
+
+Find specific cell data - based on a search
+
+  - Boolean Mask (using True or False result in another query)
+
+Series - convert a series to a Dataframe or a List
+
+Add a row
+
+Add a row - based on previous row data
+
+Update a cell - based on Index Number
+
+================= 4. COLUMNS AND NANS =========================
+
+================= WORK WITH COLUMNS, HANDLE NaN ===============
+
+Columns - adding a new Column
+
+Columns - deleting a column
+
+Columns - create a new column from a sum
+
+Columns - create a new column with the APPLY() method
+
+Columns - change data type - FLOAT to INTEGER
+
+Columns - create a new string column based on logic in APPLY() method
+
+Columns and Dates - create a year and month column from a date
+
+Columns - change the names of your columns
+
+Data Frame - use the APPLY() method with a LAMBDA function on an entire dataframe
+
+NaN - use ISNULL() to find null values
+
+NaN - use na=False to find NaN AND non-string values
+
+NaN - convert missing numerical data to 0 with FILLNA()
+
+=========== 5. GROUP BY AND JOINS IN PANDAS ===================
+
+Group By - counting columns
+
+Group By - counting by percentage
+
+  - Aggregate another column (such as MEAN) after Grouping a Column
+
+Joins - Inner Join dataframes
+
+Joins - Left Join dataframes
+
+======= 6. PIVOT TABLES, OPENPYXL =============================================================
+
+======= AGGREGATIONS WITH PIVOT TABLES, TRANSPOSING COLUMNS, SAVING WITH OPENPYXL =============
+
+Pivot - PIVOT() example
+
+Pivot 2 - PIVOT() example with grouped dates sales
+
+Pivot - PIVOT_TABLE() - aggregated functions
+
+Pivot table percentages - FLOAT to 2 decimal places
+
+openpyxl - save dataframes to different Excel workbook sheets
+
+============= 7. ADVANCED PANDAS PROFILING =========================
+
+============= CARDINALITY, CORRELATIONS, COLUMN PROFILING ==========
+
+Advanced Profiling
+
+============ 8. PLOTLY ===========================================
+
+============ VIEW AND SAVE ADVANCED GRAPHS TO HTML ===============
+
+Histogram with Plotly
+
+Boxplot with Plotly
+
+Bar chart with 3 elements (using Color Continuous Scale)
+
+Scatter chart with Plotly (with Color for 3rd element)
+
+Cumulative Sales and Profit columns on Date Ordered Data Frame
+
 
 ## TOOLS
 
