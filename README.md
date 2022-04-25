@@ -19,8 +19,6 @@ Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
 
 ======== 1. DATA FRAMES ====================
 
-======== DATA FRAME CREATION, DATA FRAME FROM FILES ==============
-
 Data Frame - Creation with a Dictionary
 
 Date Frame - Creation from a list of lists
@@ -30,8 +28,6 @@ Data Frame - Creation from a list of lists - with unique Index
 Data Frame - Creation from a CSV or Excel spreadsheet
 
 ============ 2. BASIC PANDAS ==========================
-
-========== HEAD AND TAIL, REMOVE COLUMNS, EXPLORE DATA TYPES, BASIC SORTING, INDEX - DROP AND RESET =========
 
 Head and Tail
 
@@ -46,8 +42,6 @@ Index - reset index numbers after a sort
 Index - Drop an Index from a dataframe when exporting
 
 =============== 3. FIND, UPDATE AND ADD ================================
-
-============== FIND ROWS AND CELL DATA, UPDATE CELLS, ADD ROWS =========
 
 Find a specific row - based on a search string
 
@@ -74,8 +68,6 @@ Add a row - based on previous row data
 Update a cell - based on Index Number
 
 ================= 4. COLUMNS AND NANS =========================
-
-================= WORK WITH COLUMNS, HANDLE NaN ===============
 
 Columns - adding a new Column
 
@@ -115,8 +107,6 @@ Joins - Left Join dataframes
 
 ======= 6. PIVOT TABLES, OPENPYXL =============================================================
 
-======= AGGREGATIONS WITH PIVOT TABLES, TRANSPOSING COLUMNS, SAVING WITH OPENPYXL =============
-
 Pivot - PIVOT() example
 
 Pivot 2 - PIVOT() example with grouped dates sales
@@ -129,17 +119,13 @@ openpyxl - save dataframes to different Excel workbook sheets
 
 ============= 7. PANDAS PROFILING REPORT =========================
 
-============= CARDINALITY, CORRELATIONS, COLUMN PROFILING ==========
-
 Advanced Profiling
 
 ============ 8. PLOTLY ===========================================
 
-============ VIEW AND SAVE ADVANCED GRAPHS TO HTML ===============
+Histograms with Plotly
 
-Histogram with Plotly
-
-Boxplot with Plotly
+Boxplots with Plotly
 
 Bar chart with 3 elements (using Color Continuous Scale)
 
