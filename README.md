@@ -1,26 +1,18 @@
-# Pandas One Pager
+# Pandas One Pagers
 
 ## INTRO
 
-removing columns, changing column names, creating new columns from calculations,
-finding errors, fixing errors, 
-shaping the data - pivot tables, 
-aggregations, grouping, filtering, joining .... merging, appending tables,
-changing data types.....
+A set of one page help sheets for Pandas to help with Data Analysis tasks allowing you to get started quickly with the process of preparing and visualizing data.
 
-advanced column profiling, advanced bar charts with plotly
+The one pager guides are aimed to be a quick reference with simple examples.
 
-### Reasons for it
+Topics covered include removing columns, changing column names, creating new columns from calculations, finding errors, fixing errors, finding missing values, replacing missing values, looking at column distribution, correlations between columns, shaping the data - pivot tables, aggregations, grouping, filtering, joining, merging, appending tables, changing data types, advanced column profiling and also creating advanced visualizations with plotly.
 
-Here is my own personal pandas one pager guide.
+### Reasons for this repo and what it is not
 
-Even with Python and SQL experience, it can take a little while to get used to Pandas and dataframes.  I found that compiling this one pager pandas guide saved me a lot of repetitive searching and I find it useful in daily analysis work. Hope it is useful to some people learning Pandas!
+Here are my own personal pandas one pager guides.
 
-### What it is not
-
-It isn't a full Pandas guide or tutorial.
-
-It doesn't even scratch the surface of what you can do with Pandas but it's a useful syntax guide that I refer to all the time.
+These one pager guides don't constitute a full pandas guide.  However, they provide a great starting point for Pandas learners and are useful syntax guides that I refer to all the time.
 
 ## FEATURES/ CONTENTS
 Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
@@ -121,8 +113,6 @@ Joins - Inner Join dataframes
 
 Joins - Left Join dataframes
 
-
-
 ======= 6. PIVOT TABLES, OPENPYXL =============================================================
 
 ======= AGGREGATIONS WITH PIVOT TABLES, TRANSPOSING COLUMNS, SAVING WITH OPENPYXL =============
@@ -162,7 +152,11 @@ Cumulative Sales and Profit columns on Date Ordered Data Frame
 
 pandas
 
+pandas_profiling
+
 openpyxl
+
+plotly
 
 jupyter notebooks
 
