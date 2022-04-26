@@ -57,7 +57,7 @@ Find index numbers - based on a search
 
 Find specific cell data - from a list of multiple Index Numbers
 
-  - Boolean Mask (using True or False result in another query)
+Boolean Mask (using True or False result in another query)
 
 Series - convert a series to a Dataframe or a List
 
@@ -105,7 +105,7 @@ Joins - Inner Join dataframes
 
 Joins - Left Join dataframes
 
-### 6-pivot-tables-openpyxl
+### 6-pivot-tables-openpyxl.ipynb
 
 Pivot - PIVOT() example
 
@@ -117,7 +117,7 @@ Pivot table percentages - FLOAT to 2 decimal places
 
 openpyxl - save dataframes to different Excel workbook sheets
 
-### 7-pandas-profiling-report
+### 7-pandas-profiling-report.ipynb
 
 Advanced Profiling
 
