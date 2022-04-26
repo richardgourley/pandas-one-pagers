@@ -10,14 +10,14 @@ Topics covered include removing columns, changing column names, creating new col
 
 ### Reasons for this repo and what it is not
 
-Here are my own personal pandas one pager guides.
+I created this repo because when I started out with Pandas I regularly had to check syntax.  I hope this helps others find things quickly and get going with Pandas.
 
-These one pager guides don't constitute a full pandas guide.  However, they provide a great starting point for Pandas learners and are useful syntax guides that I refer to all the time.
+These one pager guides don't constitute a full pandas guide.  However, they provide a great starting point for Data Analysis using Pandas and Plotly.
 
 ## FEATURES/ CONTENTS
 Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
 
-======== 1. DATA FRAMES ====================
+**1-dataframes.ipynb**
 
 Data Frame - Creation with a Dictionary
 
@@ -27,7 +27,7 @@ Data Frame - Creation from a list of lists - with unique Index
 
 Data Frame - Creation from a CSV or Excel spreadsheet
 
-============ 2. BASIC PANDAS ==========================
+**2-basic-pandas.ipynb**
 
 Head and Tail
 
@@ -41,7 +41,7 @@ Index - reset index numbers after a sort
 
 Index - Drop an Index from a dataframe when exporting
 
-=============== 3. FIND, UPDATE AND ADD ================================
+**3-find-update-add**
 
 Find a specific row - based on a search string
 
@@ -67,7 +67,7 @@ Add a row - based on previous row data
 
 Update a cell - based on Index Number
 
-================= 4. COLUMNS AND NANS =========================
+**4-columns-nans.ipynb**
 
 Columns - adding a new Column
 
@@ -93,7 +93,7 @@ NaN - use na=False to find NaN AND non-string values
 
 NaN - convert missing numerical data to 0 with FILLNA()
 
-=========== 5. GROUP BY AND JOINS IN PANDAS ===================
+**5-group-by-joins.ipynb**
 
 Group By - counting columns
 
@@ -105,7 +105,7 @@ Joins - Inner Join dataframes
 
 Joins - Left Join dataframes
 
-======= 6. PIVOT TABLES, OPENPYXL =============================================================
+**6-pivot-tables-openpyxl**
 
 Pivot - PIVOT() example
 
@@ -117,11 +117,11 @@ Pivot table percentages - FLOAT to 2 decimal places
 
 openpyxl - save dataframes to different Excel workbook sheets
 
-============= 7. PANDAS PROFILING REPORT =========================
+**7-pandas-profiling-report**
 
 Advanced Profiling
 
-============ 8. PLOTLY ===========================================
+**8-visualizations-with-plotly.ipynb**
 
 Histograms with Plotly
 
