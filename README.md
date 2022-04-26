@@ -17,7 +17,7 @@ These one pager guides don't constitute a full pandas guide.  However, they prov
 ## FEATURES/ CONTENTS
 Here is the full contents list covered in the 'pandas-one-pager.ipynb' file:
 
-**1-dataframes.ipynb**
+### 1-dataframes.ipynb
 
 Data Frame - Creation with a Dictionary
 
@@ -27,7 +27,7 @@ Data Frame - Creation from a list of lists - with unique Index
 
 Data Frame - Creation from a CSV or Excel spreadsheet
 
-**2-basic-pandas.ipynb**
+### 2-basic-pandas.ipynb
 
 Head and Tail
 
@@ -41,7 +41,7 @@ Index - reset index numbers after a sort
 
 Index - Drop an Index from a dataframe when exporting
 
-**3-find-update-add**
+### 3-find-update-add
 
 Find a specific row - based on a search string
 
@@ -67,7 +67,7 @@ Add a row - based on previous row data
 
 Update a cell - based on Index Number
 
-**4-columns-nans.ipynb**
+### 4-columns-nans.ipynb
 
 Columns - adding a new Column
 
@@ -93,7 +93,7 @@ NaN - use na=False to find NaN AND non-string values
 
 NaN - convert missing numerical data to 0 with FILLNA()
 
-**5-group-by-joins.ipynb**
+###  5-group-by-joins.ipynb
 
 Group By - counting columns
 
@@ -105,7 +105,7 @@ Joins - Inner Join dataframes
 
 Joins - Left Join dataframes
 
-**6-pivot-tables-openpyxl**
+### 6-pivot-tables-openpyxl
 
 Pivot - PIVOT() example
 
@@ -117,11 +117,11 @@ Pivot table percentages - FLOAT to 2 decimal places
 
 openpyxl - save dataframes to different Excel workbook sheets
 
-**7-pandas-profiling-report**
+### 7-pandas-profiling-report
 
 Advanced Profiling
 
-**8-visualizations-with-plotly.ipynb**
+### 8-visualizations-with-plotly.ipynb
 
 Histograms with Plotly
 
