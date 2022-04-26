@@ -41,7 +41,7 @@ Index - reset index numbers after a sort
 
 Index - Drop an Index from a dataframe when exporting
 
-### 3-find-update-add
+### 3-find-update-add.ipynb
 
 Find a specific row - based on a search string
 
