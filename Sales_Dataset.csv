@@ -1,0 +1,1000 @@
+,Order ID,Order Date,In Store or Online,Customer Name,Product ID,Product Name,Category,Sales,Quantity,Profit
+0,1,2021-09-28,Online,Sandra Smith,339,Product 339,Category 1,324,9,49.0
+1,2,2021-09-15,Online,Geoff Carter,261,Product 261,Category 1,189,3,18.0
+2,3,2019-01-31,In Store,Barry Wilson,11,Product 11,Category 1,336,8,21.0
+3,4,2019-08-31,In Store,Janet Green,56,Product 56,Category 1,295,9,42.0
+4,5,2021-05-31,In Store,Geoff Green,283,Product 283,Category 1,380,1,73.0
+5,6,2019-09-24,In Store,Steve Gill,126,Product 126,Category 1,263,6,-7.0
+6,7,2021-12-31,Online,Geoff Cox,372,Product 372,Category 2,149,7,68.0
+7,8,2020-02-19,In Store,Geoff Wilson,346,Product 346,Category 1,116,6,10.0
+8,9,2019-01-31,Online,Josephine Davis,420,Product 420,Category 2,359,2,166.0
+9,10,2021-02-25,Online,Terry Sedgewick,255,Product 255,Category 1,392,1,8.0
+10,11,2021-08-31,In Store,Geoff Brown,250,Product 250,Category 1,128,3,11.0
+11,12,2019-09-27,In Store,Ben Davis,262,Product 262,Category 1,53,7,-1.0
+12,13,2019-05-31,Online,Ben Gill,201,Product 201,Category 1,465,1,19.0
+13,14,2019-07-31,In Store,Geoff Jones,474,Product 474,Category 2,440,4,75.0
+14,15,2021-10-31,Online,Claire Brown,318,Product 318,Category 1,269,6,27.0
+15,16,2021-11-23,Online,Ben Smith,63,Product 63,Category 1,471,4,-9.0
+16,17,2020-06-20,Online,Jenny Wilson,209,Product 209,Category 1,97,7,-3.0
+17,18,2021-05-31,Online,Ben Brown,9,Product 9,Category 1,440,6,0.0
+18,19,2021-09-24,Online,Janet Cox,241,Product 241,Category 1,20,7,-0.0
+19,20,2021-06-18,Online,Sandra Gill,329,Product 329,Category 1,114,7,11.0
+20,21,2019-10-31,In Store,Ben Brown,105,Product 105,Category 1,42,3,-0.0
+21,22,2020-11-24,Online,Barry Cox,91,Product 91,Category 1,473,5,48.0
+22,23,2021-06-01,In Store,Gillian Jones,340,Product 340,Category 1,287,3,49.0
+23,24,2021-05-31,Online,Terry Green,350,Product 350,Category 2,34,2,11.0
+24,25,2019-08-31,In Store,Jenny Harper,315,Product 315,Category 1,109,7,18.0
+25,26,2021-03-31,In Store,Ben Cox,143,Product 143,Category 1,131,5,8.0
+26,27,2021-03-31,Online,Josephine Jackson,381,Product 381,Category 2,318,9,96.0
+27,28,2019-09-16,Online,Geoff Davis,208,Product 208,Category 1,390,2,8.0
+28,29,2020-02-18,In Store,Claire Harper,454,Product 454,Category 2,49,6,-1.0
+29,30,2020-01-31,Online,Geoff Cox,83,Product 83,Category 1,465,5,14.0
+30,31,2020-06-17,Online,Claire Wilson,267,Product 267,Category 1,331,4,24.0
+31,32,2021-07-31,Online,Geoff Wilson,24,Product 24,Category 1,21,7,2.0
+32,33,2021-01-31,Online,Geoff Jackson,86,Product 86,Category 1,228,8,37.0
+33,34,2021-09-26,Online,Gillian Brown,378,Product 378,Category 2,380,6,187.0
+34,35,2019-01-31,Online,Barry Gill,245,Product 245,Category 1,165,6,27.0
+35,36,2021-11-30,In Store,Simon Sedgewick,43,Product 43,Category 1,95,4,19.0
+36,37,2021-12-31,Online,Terry Harper,49,Product 49,Category 1,208,8,-10.0
+37,38,2021-01-31,Online,Ben Wilson,477,Product 477,Category 2,312,9,122.0
+38,39,2021-04-23,Online,Jenny Green,115,Product 115,Category 1,268,3,6.0
+39,40,2019-04-26,In Store,Sandra Brown,108,Product 108,Category 1,318,6,45.0
+40,41,2020-01-31,Online,Geoff Harper,39,Product 39,Category 1,223,5,23.0
+41,42,2019-12-31,In Store,Terry Wilson,337,Product 337,Category 1,415,7,-8.0
+42,43,2020-11-25,In Store,Jenny Wilson,238,Product 238,Category 1,13,7,3.0
+43,44,2019-01-31,Online,Janet Jones,354,Product 354,Category 2,434,9,178.0
+44,45,2020-09-25,Online,Barry Cox,8,Product 8,Category 1,221,6,34.0
+45,46,2021-01-31,In Store,Terry Smith,202,Product 202,Category 1,268,1,-10.0
+46,47,2019-08-31,In Store,Steve Cox,385,Product 385,Category 2,164,2,-4.0
+47,48,2019-10-31,In Store,Jenny Sedgewick,390,Product 390,Category 2,100,2,-2.0
+48,49,2021-07-31,Online,Barry Cox,378,Product 378,Category 2,139,5,51.0
+49,50,2021-06-25,Online,Terry Green,188,Product 188,Category 1,453,4,28.0
+50,51,2019-06-22,In Store,Jenny Sedgewick,279,Product 279,Category 1,337,3,24.0
+51,52,2019-12-31,Online,Josephine Harper,468,Product 468,Category 2,190,6,94.0
+52,53,2021-06-23,Online,Sandra Green,416,Product 416,Category 2,452,7,213.0
+53,54,2019-03-31,Online,Claire Cox,180,Product 180,Category 1,164,7,23.0
+54,55,2020-05-31,In Store,Sandra Jackson,457,Product 457,Category 2,180,1,17.0
+55,56,2019-10-31,In Store,Simon Carter,146,Product 146,Category 1,251,2,8.0
+56,57,2021-09-05,Online,Simon Sedgewick,94,Product 94,Category 1,163,7,27.0
+57,58,2021-08-31,In Store,Sandra Gill,280,Product 280,Category 1,275,9,28.0
+58,59,2019-03-31,Online,Simon Sedgewick,292,Product 292,Category 1,143,8,-2.0
+59,60,2021-03-31,Online,Gillian Sedgewick,263,Product 263,Category 1,122,5,4.0
+60,61,2021-08-31,Online,Jenny Brown,216,Product 216,Category 1,311,8,60.0
+61,62,2020-03-31,Online,Ben Harper,182,Product 182,Category 1,437,6,-21.0
+62,63,2020-09-08,In Store,Barry Davis,280,Product 280,Category 1,68,5,-2.0
+63,64,2021-10-31,In Store,Steve Cox,49,Product 49,Category 1,259,7,-10.0
+64,65,2019-09-07,Online,Simon Wilson,284,Product 284,Category 1,447,3,45.0
+65,66,2020-04-05,In Store,Jenny Green,349,Product 349,Category 1,477,1,34.0
+66,67,2019-04-06,In Store,Ben Jackson,194,Product 194,Category 1,353,6,43.0
+67,68,2019-07-31,In Store,Steve Sedgewick,133,Product 133,Category 1,166,2,5.0
+68,69,2019-10-31,Online,Jenny Green,435,Product 435,Category 2,209,5,99.0
+69,70,2019-07-31,Online,Geoff Davis,188,Product 188,Category 1,136,7,13.0
+70,71,2021-11-29,In Store,Steve Sedgewick,273,Product 273,Category 1,251,7,23.0
+71,72,2020-07-31,Online,Sandra Harper,396,Product 396,Category 2,116,8,35.0
+72,73,2019-02-03,In Store,Gillian Wilson,178,Product 178,Category 1,407,9,45.0
+73,74,2021-03-31,In Store,Janet Gill,221,Product 221,Category 1,88,8,14.0
+74,75,2019-03-31,Online,Janet Davis,99,Product 99,Category 1,14,4,0.0
+75,76,2019-06-21,Online,Jenny Sedgewick,3,Product 3,Category 1,321,6,-9.0
+76,77,2019-12-31,In Store,Simon Davis,191,Product 191,Category 1,214,5,28.0
+77,78,2020-02-05,Online,Geoff Brown,455,Product 455,Category 2,333,6,127.0
+78,79,2019-12-31,In Store,Steve Carter,488,Product 488,Category 2,365,8,30.0
+79,80,2021-04-28,Online,Jenny Jackson,217,Product 217,Category 1,37,8,1.0
+80,81,2019-11-24,In Store,Claire Sedgewick,109,Product 109,Category 1,109,6,5.0
+81,82,2020-04-08,In Store,Barry Jackson,409,Product 409,Category 2,205,8,31.0
+82,83,2019-08-31,In Store,Geoff Cox,251,Product 251,Category 1,293,9,15.0
+83,84,2019-05-31,Online,Simon Jones,306,Product 306,Category 1,133,2,7.0
+84,85,2021-02-23,Online,Sandra Harper,235,Product 235,Category 1,293,1,53.0
+85,86,2020-09-17,In Store,Ben Davis,450,Product 450,Category 2,49,6,7.0
+86,87,2021-06-03,Online,Simon Jones,486,Product 486,Category 2,451,2,181.0
+87,88,2019-01-31,Online,Barry Wilson,472,Product 472,Category 2,114,5,51.0
+88,89,2021-10-31,Online,Jenny Davis,281,Product 281,Category 1,120,4,8.0
+89,90,2020-04-17,In Store,Josephine Davis,78,Product 78,Category 1,342,5,14.0
+90,91,2019-07-31,Online,Janet Cox,198,Product 198,Category 1,493,8,50.0
+91,92,2019-09-18,In Store,Barry Jackson,28,Product 28,Category 1,58,9,6.0
+92,93,2021-10-31,Online,Barry Harper,106,Product 106,Category 1,327,1,-3.0
+93,94,2021-08-31,In Store,Josephine Jackson,182,Product 182,Category 1,439,3,-17.0
+94,95,2019-06-23,In Store,Sandra Harper,293,Product 293,Category 1,295,2,18.0
+95,96,2021-01-31,Online,Geoff Davis,258,Product 258,Category 1,249,8,28.0
+96,97,2020-03-31,Online,Josephine Sedgewick,193,Product 193,Category 1,253,9,21.0
+97,98,2019-09-05,Online,Jenny Wilson,55,Product 55,Category 1,86,4,6.0
+98,99,2019-09-05,Online,Gillian Wilson,92,Product 92,Category 1,227,9,12.0
+99,100,2020-06-11,In Store,Claire Brown,419,Product 419,Category 2,142,3,0.0
+100,101,2020-05-31,In Store,Simon Wilson,275,Product 275,Category 1,467,5,19.0
+101,102,2020-10-31,Online,Janet Smith,461,Product 461,Category 2,274,8,96.0
+102,103,2019-12-31,In Store,Jenny Wilson,46,Product 46,Category 1,274,7,44.0
+103,104,2020-01-31,In Store,Ben Carter,420,Product 420,Category 2,496,6,70.0
+104,105,2020-03-31,Online,Terry Smith,131,Product 131,Category 1,276,9,47.0
+105,106,2021-05-31,Online,Josephine Wilson,26,Product 26,Category 1,347,9,49.0
+106,107,2021-03-31,Online,Sandra Wilson,150,Product 150,Category 1,160,9,-4.0
+107,108,2019-06-21,Online,Barry Sedgewick,48,Product 48,Category 1,256,9,18.0
+108,109,2020-06-10,Online,Claire Gill,450,Product 450,Category 2,322,2,107.0
+109,110,2021-12-31,Online,Barry Davis,286,Product 286,Category 1,38,1,8.0
+110,111,2019-09-02,In Store,Simon Gill,350,Product 350,Category 2,267,6,27.0
+111,112,2020-04-22,Online,Barry Green,163,Product 163,Category 1,187,6,-9.0
+112,113,2021-04-15,Online,Sandra Gill,480,Product 480,Category 2,79,5,24.0
+113,114,2021-04-25,In Store,Claire Davis,459,Product 459,Category 2,318,8,51.0
+114,115,2020-01-31,In Store,Terry Jones,33,Product 33,Category 1,367,4,-14.0
+115,116,2021-04-27,Online,Geoff Carter,115,Product 115,Category 1,499,5,-24.0
+116,117,2019-10-31,In Store,Terry Wilson,382,Product 382,Category 2,304,6,46.0
+117,118,2019-10-31,Online,Gillian Jackson,153,Product 153,Category 1,111,5,5.0
+118,119,2021-08-31,In Store,Jenny Cox,297,Product 297,Category 1,339,8,34.0
+119,120,2020-08-31,In Store,Sandra Jackson,473,Product 473,Category 2,437,1,22.0
+120,121,2021-02-01,Online,Janet Wilson,171,Product 171,Category 1,13,4,1.0
+121,122,2021-05-31,Online,Jenny Gill,301,Product 301,Category 1,375,2,49.0
+122,123,2021-05-31,Online,Ben Sedgewick,206,Product 206,Category 1,158,7,-4.0
+123,124,2020-06-02,Online,Gillian Smith,96,Product 96,Category 1,281,4,12.0
+124,125,2020-06-24,Online,Steve Sedgewick,416,Product 416,Category 2,145,9,64.0
+125,126,2020-06-13,In Store,Barry Cox,167,Product 167,Category 1,27,8,1.0
+126,127,2021-02-05,In Store,Sandra Sedgewick,158,Product 158,Category 1,196,1,-1.0
+127,128,2020-03-31,In Store,Josephine Davis,267,Product 267,Category 1,415,7,-16.0
+128,129,2021-07-31,Online,Steve Jones,44,Product 44,Category 1,126,7,9.0
+129,130,2019-02-03,Online,Terry Carter,293,Product 293,Category 1,348,7,-6.0
+130,131,2019-02-22,In Store,Barry Gill,358,Product 358,Category 2,122,2,15.0
+131,132,2021-04-11,Online,Janet Carter,33,Product 33,Category 1,285,2,18.0
+132,133,2019-02-18,Online,Barry Gill,190,Product 190,Category 1,167,7,11.0
+133,134,2020-10-31,In Store,Sandra Harper,387,Product 387,Category 2,78,4,13.0
+134,135,2021-09-23,Online,Simon Davis,465,Product 465,Category 2,24,9,12.0
+135,136,2020-04-21,Online,Terry Brown,397,Product 397,Category 2,396,3,147.0
+136,137,2021-07-31,Online,Steve Wilson,261,Product 261,Category 1,476,9,20.0
+137,138,2021-06-17,Online,Claire Brown,244,Product 244,Category 1,390,2,-19.0
+138,139,2019-10-31,Online,Janet Davis,38,Product 38,Category 1,454,9,-13.0
+139,140,2019-09-02,Online,Janet Harper,73,Product 73,Category 1,274,4,44.0
+140,141,2020-09-01,In Store,Josephine Smith,236,Product 236,Category 1,374,7,-11.0
+141,142,2021-10-31,In Store,Geoff Cox,301,Product 301,Category 1,180,3,13.0
+142,143,2020-08-31,Online,Sandra Cox,14,Product 14,Category 1,177,3,8.0
+143,144,2020-11-16,In Store,Gillian Carter,266,Product 266,Category 1,15,3,0.0
+144,145,2020-12-31,Online,Simon Jackson,138,Product 138,Category 1,155,7,28.0
+145,146,2020-11-10,In Store,Jenny Jackson,181,Product 181,Category 1,318,6,-6.0
+146,147,2020-07-31,Online,Janet Sedgewick,389,Product 389,Category 2,417,7,171.0
+147,148,2020-09-21,Online,Gillian Smith,469,Product 469,Category 2,57,2,23.0
+148,149,2021-01-31,In Store,Janet Harper,40,Product 40,Category 1,169,7,26.0
+149,150,2021-03-31,In Store,Steve Cox,472,Product 472,Category 2,459,1,37.0
+150,151,2019-06-12,In Store,Sandra Davis,355,Product 355,Category 2,476,1,-9.0
+151,152,2021-11-15,Online,Ben Harper,474,Product 474,Category 2,422,9,186.0
+152,153,2020-09-19,Online,Ben Smith,196,Product 196,Category 1,359,7,44.0
+153,154,2020-07-31,Online,Jenny Davis,98,Product 98,Category 1,40,7,8.0
+154,155,2020-04-13,Online,Terry Gill,326,Product 326,Category 1,296,8,12.0
+155,156,2020-02-14,Online,Barry Carter,154,Product 154,Category 1,47,1,-2.0
+156,157,2019-06-04,In Store,Barry Harper,203,Product 203,Category 1,187,9,-3.0
+157,158,2020-06-03,In Store,Steve Smith,194,Product 194,Category 1,152,3,-7.0
+158,159,2020-09-25,Online,Barry Davis,338,Product 338,Category 1,459,6,23.0
+159,160,2020-03-31,Online,Ben Brown,304,Product 304,Category 1,277,9,25.0
+160,161,2020-10-31,In Store,Claire Harper,489,Product 489,Category 2,276,9,-5.0
+161,162,2019-10-31,In Store,Ben Carter,22,Product 22,Category 1,488,2,5.0
+162,163,2019-05-31,In Store,Steve Harper,408,Product 408,Category 2,21,2,4.0
+163,164,2019-03-31,In Store,Sandra Carter,406,Product 406,Category 2,331,4,0.0
+164,165,2021-07-31,Online,Ben Jackson,481,Product 481,Category 2,37,1,18.0
+165,166,2020-10-31,Online,Josephine Carter,28,Product 28,Category 1,232,3,-2.0
+166,167,2020-05-31,Online,Janet Carter,444,Product 444,Category 2,448,8,189.0
+167,168,2019-01-31,Online,Barry Carter,260,Product 260,Category 1,166,4,10.0
+168,169,2021-03-31,In Store,Terry Jones,340,Product 340,Category 1,11,2,2.0
+169,170,2020-05-31,Online,Jenny Brown,32,Product 32,Category 1,441,3,75.0
+170,171,2019-04-19,In Store,Janet Carter,90,Product 90,Category 1,479,3,39.0
+171,172,2020-12-31,In Store,Jenny Gill,478,Product 478,Category 2,303,5,46.0
+172,173,2020-07-31,Online,Ben Jones,321,Product 321,Category 1,431,5,69.0
+173,174,2020-03-31,In Store,Simon Green,165,Product 165,Category 1,374,4,19.0
+174,175,2019-09-05,Online,Sandra Cox,197,Product 197,Category 1,191,9,10.0
+175,176,2019-12-31,Online,Steve Cox,246,Product 246,Category 1,65,7,10.0
+176,177,2021-10-31,Online,Gillian Carter,259,Product 259,Category 1,244,6,30.0
+177,178,2020-11-13,In Store,Josephine Gill,159,Product 159,Category 1,432,8,78.0
+178,179,2020-03-31,Online,Jenny Jones,359,Product 359,Category 2,343,8,114.0
+179,180,2021-07-31,Online,Ben Jones,164,Product 164,Category 1,450,5,68.0
+180,181,2019-09-07,In Store,Terry Smith,92,Product 92,Category 1,389,2,67.0
+181,182,2020-06-05,In Store,Jenny Harper,414,Product 414,Category 2,71,8,7.0
+182,183,2020-10-31,In Store,Josephine Jackson,279,Product 279,Category 1,388,6,20.0
+183,184,2019-09-29,In Store,Steve Jackson,184,Product 184,Category 1,119,5,15.0
+184,185,2019-03-31,In Store,Terry Green,266,Product 266,Category 1,135,8,2.0
+185,186,2020-01-31,In Store,Jenny Gill,23,Product 23,Category 1,97,8,10.0
+186,187,2020-01-31,In Store,Simon Smith,262,Product 262,Category 1,175,2,-8.0
+187,188,2021-12-31,Online,Janet Wilson,29,Product 29,Category 1,92,7,17.0
+188,189,2021-04-26,Online,Janet Brown,325,Product 325,Category 1,150,2,3.0
+189,190,2019-04-01,In Store,Ben Cox,364,Product 364,Category 2,358,1,65.0
+190,191,2021-12-31,Online,Josephine Cox,86,Product 86,Category 1,69,1,12.0
+191,192,2021-01-31,Online,Simon Harper,326,Product 326,Category 1,366,8,8.0
+192,193,2021-11-29,Online,Janet Sedgewick,232,Product 232,Category 1,212,5,34.0
+193,194,2021-12-31,In Store,Terry Carter,416,Product 416,Category 2,229,9,35.0
+194,195,2019-08-31,Online,Steve Cox,195,Product 195,Category 1,321,5,55.0
+195,196,2019-03-31,In Store,Josephine Carter,4,Product 4,Category 1,36,9,-1.0
+196,197,2020-01-31,In Store,Barry Davis,328,Product 328,Category 1,116,1,9.0
+197,198,2019-02-06,Online,Claire Green,428,Product 428,Category 2,124,9,54.0
+198,199,2019-06-13,Online,Janet Carter,400,Product 400,Category 2,296,4,104.0
+199,200,2020-09-22,In Store,Ben Green,271,Product 271,Category 1,282,1,0.0
+200,201,2019-10-31,In Store,Josephine Sedgewick,190,Product 190,Category 1,244,8,32.0
+201,202,2019-06-15,In Store,Gillian Jackson,117,Product 117,Category 1,209,3,26.0
+202,203,2020-09-29,Online,Josephine Green,62,Product 62,Category 1,162,5,28.0
+203,204,2020-04-11,Online,Jenny Harper,315,Product 315,Category 1,102,3,19.0
+204,205,2019-04-30,Online,Geoff Brown,217,Product 217,Category 1,487,2,49.0
+205,206,2021-09-20,Online,Terry Cox,226,Product 226,Category 1,321,7,49.0
+206,207,2020-10-31,Online,Gillian Wilson,7,Product 7,Category 1,482,5,92.0
+207,208,2020-07-31,In Store,Barry Brown,353,Product 353,Category 2,26,4,2.0
+208,209,2021-09-09,Online,Gillian Davis,399,Product 399,Category 2,283,3,85.0
+209,210,2019-11-16,In Store,Sandra Green,219,Product 219,Category 1,67,1,-2.0
+210,211,2021-09-04,Online,Terry Smith,172,Product 172,Category 1,431,7,0.0
+211,212,2019-04-01,In Store,Josephine Green,406,Product 406,Category 2,75,9,4.0
+212,213,2019-07-31,In Store,Steve Sedgewick,215,Product 215,Category 1,484,9,39.0
+213,214,2021-10-31,Online,Sandra Smith,260,Product 260,Category 1,463,5,84.0
+214,215,2021-08-31,In Store,Josephine Green,228,Product 228,Category 1,209,9,19.0
+215,216,2021-04-11,Online,Steve Jones,26,Product 26,Category 1,180,3,9.0
+216,217,2021-03-31,In Store,Gillian Green,298,Product 298,Category 1,120,8,-6.0
+217,218,2021-07-31,Online,Geoff Cox,337,Product 337,Category 1,159,5,0.0
+218,219,2021-10-31,Online,Jenny Brown,219,Product 219,Category 1,437,4,70.0
+219,220,2021-05-31,Online,Geoff Gill,342,Product 342,Category 1,490,3,54.0
+220,221,2020-02-10,In Store,Ben Brown,297,Product 297,Category 1,67,6,2.0
+221,222,2020-08-31,Online,Ben Davis,366,Product 366,Category 2,236,6,93.0
+222,223,2019-09-03,In Store,Claire Sedgewick,479,Product 479,Category 2,13,1,3.0
+223,224,2019-09-28,Online,Jenny Sedgewick,336,Product 336,Category 1,98,8,3.0
+224,225,2021-04-04,Online,Janet Green,344,Product 344,Category 1,362,3,55.0
+225,226,2021-12-31,In Store,Simon Jackson,285,Product 285,Category 1,262,5,8.0
+226,227,2021-08-31,In Store,Janet Davis,267,Product 267,Category 1,399,2,32.0
+227,228,2021-12-31,In Store,Geoff Gill,168,Product 168,Category 1,186,9,4.0
+228,229,2019-07-31,Online,Claire Jones,123,Product 123,Category 1,261,7,-5.0
+229,230,2020-11-03,In Store,Geoff Cox,16,Product 16,Category 1,321,7,-12.0
+230,231,2019-04-26,Online,Janet Green,72,Product 72,Category 1,235,4,-2.0
+231,232,2021-03-31,Online,Barry Carter,268,Product 268,Category 1,218,7,24.0
+232,233,2019-10-31,Online,Sandra Gill,405,Product 405,Category 2,428,7,150.0
+233,234,2020-05-31,In Store,Janet Jackson,412,Product 412,Category 2,142,5,-7.0
+234,235,2020-09-21,Online,Janet Brown,399,Product 399,Category 2,412,1,202.0
+235,236,2019-06-14,Online,Ben Jones,123,Product 123,Category 1,423,7,55.0
+236,237,2020-08-31,In Store,Gillian Brown,39,Product 39,Category 1,164,8,10.0
+237,238,2020-09-27,Online,Josephine Brown,317,Product 317,Category 1,10,8,1.0
+238,239,2019-12-31,In Store,Jenny Smith,66,Product 66,Category 1,73,4,11.0
+239,240,2021-11-03,Online,Josephine Green,379,Product 379,Category 2,165,6,66.0
+240,241,2020-04-03,Online,Simon Davis,430,Product 430,Category 2,366,5,180.0
+241,242,2019-03-31,Online,Terry Carter,41,Product 41,Category 1,273,9,-10.0
+242,243,2021-03-31,In Store,Sandra Cox,236,Product 236,Category 1,187,3,-7.0
+243,244,2020-04-07,Online,Steve Carter,209,Product 209,Category 1,329,4,37.0
+244,245,2019-11-24,In Store,Simon Gill,294,Product 294,Category 1,135,7,-1.0
+245,246,2020-10-31,In Store,Steve Harper,483,Product 483,Category 2,239,9,17.0
+246,247,2020-12-31,Online,Ben Wilson,166,Product 166,Category 1,460,5,-9.0
+247,248,2019-11-12,In Store,Josephine Brown,324,Product 324,Category 1,349,9,60.0
+248,249,2021-12-31,In Store,Jenny Gill,222,Product 222,Category 1,463,3,38.0
+249,250,2021-05-31,In Store,Josephine Smith,139,Product 139,Category 1,98,8,5.0
+250,251,2021-08-31,Online,Claire Cox,93,Product 93,Category 1,145,6,19.0
+251,252,2019-09-11,In Store,Janet Brown,216,Product 216,Category 1,350,4,-7.0
+252,253,2020-08-31,Online,Gillian Sedgewick,499,Product 499,Category 2,390,7,172.0
+253,254,2020-07-31,Online,Josephine Jones,480,Product 480,Category 2,430,2,155.0
+254,255,2019-08-31,In Store,Terry Gill,6,Product 6,Category 1,249,1,28.0
+255,256,2020-07-31,Online,Ben Wilson,115,Product 115,Category 1,74,2,-3.0
+256,257,2021-09-01,In Store,Jenny Gill,451,Product 451,Category 2,160,3,0.0
+257,258,2019-08-31,Online,Janet Jackson,295,Product 295,Category 1,105,3,9.0
+258,259,2020-03-31,Online,Simon Green,338,Product 338,Category 1,413,5,42.0
+259,260,2020-04-26,In Store,Gillian Jackson,267,Product 267,Category 1,425,8,-4.0
+260,261,2021-03-31,In Store,Barry Davis,166,Product 166,Category 1,31,8,6.0
+261,262,2021-05-31,Online,Steve Davis,391,Product 391,Category 2,198,3,90.0
+262,263,2019-01-31,Online,Josephine Green,357,Product 357,Category 2,203,5,98.0
+263,264,2021-06-30,In Store,Gillian Brown,309,Product 309,Category 1,334,3,31.0
+264,265,2019-10-31,Online,Terry Cox,335,Product 335,Category 1,107,1,4.0
+265,266,2019-06-18,Online,Gillian Jackson,96,Product 96,Category 1,277,6,9.0
+266,267,2020-10-31,Online,Terry Brown,293,Product 293,Category 1,129,4,19.0
+267,268,2021-11-13,In Store,Simon Smith,225,Product 225,Category 1,54,4,10.0
+268,269,2021-10-31,Online,Terry Jones,364,Product 364,Category 2,177,9,75.0
+269,270,2021-11-23,Online,Josephine Jones,396,Product 396,Category 2,371,3,130.0
+270,271,2019-05-31,Online,Sandra Cox,336,Product 336,Category 1,255,8,0.0
+271,272,2020-10-31,In Store,Terry Carter,210,Product 210,Category 1,89,2,7.0
+272,273,2020-08-31,Online,Geoff Smith,170,Product 170,Category 1,374,8,72.0
+273,274,2019-08-31,Online,Geoff Gill,170,Product 170,Category 1,371,3,-14.0
+274,275,2020-08-31,Online,Sandra Jackson,380,Product 380,Category 2,470,6,174.0
+275,276,2019-05-31,Online,Geoff Green,468,Product 468,Category 2,222,3,96.0
+276,277,2021-11-17,Online,Josephine Carter,319,Product 319,Category 1,399,8,64.0
+277,278,2021-09-14,Online,Sandra Carter,297,Product 297,Category 1,283,5,12.0
+278,279,2019-06-09,In Store,Sandra Green,449,Product 449,Category 2,342,2,62.0
+279,280,2020-01-31,Online,Geoff Gill,318,Product 318,Category 1,492,9,20.0
+280,281,2021-07-31,In Store,Simon Smith,395,Product 395,Category 2,337,6,27.0
+281,282,2020-09-09,Online,Jenny Brown,194,Product 194,Category 1,331,6,44.0
+282,283,2019-11-16,Online,Steve Gill,231,Product 231,Category 1,320,8,32.0
+283,284,2019-02-02,Online,Claire Gill,205,Product 205,Category 1,479,8,63.0
+284,285,2020-09-15,In Store,Geoff Davis,19,Product 19,Category 1,415,3,-20.0
+285,286,2019-07-31,Online,Simon Gill,223,Product 223,Category 1,337,4,-13.0
+286,287,2021-03-31,Online,Simon Jackson,296,Product 296,Category 1,81,8,16.0
+287,288,2019-04-14,In Store,Gillian Wilson,265,Product 265,Category 1,145,6,21.0
+288,289,2021-05-31,In Store,Geoff Cox,219,Product 219,Category 1,144,2,-5.0
+289,290,2021-01-31,Online,Claire Wilson,71,Product 71,Category 1,321,6,52.0
+290,291,2020-09-16,Online,Jenny Cox,376,Product 376,Category 2,153,9,54.0
+291,292,2019-11-02,Online,Janet Carter,107,Product 107,Category 1,59,8,3.0
+292,293,2020-03-31,In Store,Claire Jones,458,Product 458,Category 2,97,7,19.0
+293,294,2019-10-31,In Store,Terry Jones,493,Product 493,Category 2,409,5,54.0
+294,295,2021-04-07,Online,Terry Harper,334,Product 334,Category 1,220,9,33.0
+295,296,2019-11-13,Online,Terry Jones,323,Product 323,Category 1,306,3,-3.0
+296,297,2021-07-31,Online,Jenny Carter,349,Product 349,Category 1,318,7,-3.0
+297,298,2019-02-17,Online,Geoff Jones,31,Product 31,Category 1,349,8,39.0
+298,299,2021-01-31,Online,Steve Smith,369,Product 369,Category 2,384,9,158.0
+299,300,2020-12-31,In Store,Sandra Gill,414,Product 414,Category 2,229,5,19.0
+300,301,2021-08-31,In Store,Ben Carter,123,Product 123,Category 1,282,3,-11.0
+301,302,2019-08-31,In Store,Barry Sedgewick,366,Product 366,Category 2,469,1,10.0
+302,303,2019-01-31,Online,Steve Carter,258,Product 258,Category 1,204,6,-2.0
+303,304,2020-12-31,Online,Jenny Cox,436,Product 436,Category 2,135,3,60.0
+304,305,2021-10-31,Online,Janet Jones,201,Product 201,Category 1,109,6,8.0
+305,306,2021-12-31,In Store,Claire Smith,357,Product 357,Category 2,372,1,-3.0
+306,307,2020-01-31,In Store,Sandra Jones,367,Product 367,Category 2,115,9,9.0
+307,308,2019-08-31,Online,Geoff Jackson,459,Product 459,Category 2,317,8,134.0
+308,309,2021-04-20,In Store,Gillian Davis,34,Product 34,Category 1,332,8,47.0
+309,310,2020-01-31,Online,Simon Harper,317,Product 317,Category 1,460,4,-4.0
+310,311,2019-11-18,Online,Claire Green,294,Product 294,Category 1,157,6,18.0
+311,312,2019-03-31,In Store,Jenny Sedgewick,128,Product 128,Category 1,438,9,62.0
+312,313,2019-01-31,In Store,Geoff Jones,415,Product 415,Category 2,474,7,38.0
+313,314,2020-04-10,Online,Ben Carter,104,Product 104,Category 1,357,3,25.0
+314,315,2019-02-13,In Store,Sandra Carter,321,Product 321,Category 1,416,7,0.0
+315,316,2020-04-11,In Store,Sandra Brown,55,Product 55,Category 1,307,8,16.0
+316,317,2021-01-31,In Store,Ben Jones,288,Product 288,Category 1,233,1,31.0
+317,318,2021-08-31,Online,Josephine Wilson,136,Product 136,Category 1,358,7,33.0
+318,319,2020-09-09,Online,Simon Carter,484,Product 484,Category 2,491,4,207.0
+319,320,2019-07-31,In Store,Barry Cox,361,Product 361,Category 2,21,2,1.0
+320,321,2019-01-31,Online,Josephine Jones,413,Product 413,Category 2,152,1,51.0
+321,322,2020-03-31,Online,Gillian Brown,100,Product 100,Category 1,453,3,28.0
+322,323,2021-05-31,Online,Steve Smith,184,Product 184,Category 1,268,1,43.0
+323,324,2020-09-27,Online,Sandra Wilson,293,Product 293,Category 1,254,1,8.0
+324,325,2019-06-30,In Store,Barry Gill,305,Product 305,Category 1,303,4,-6.0
+325,326,2019-04-04,Online,Simon Davis,161,Product 161,Category 1,260,1,-10.0
+326,327,2021-05-31,In Store,Terry Jones,260,Product 260,Category 1,142,9,22.0
+327,328,2020-03-31,Online,Ben Smith,458,Product 458,Category 2,262,9,116.0
+328,329,2019-11-15,In Store,Claire Sedgewick,430,Product 430,Category 2,390,8,-7.0
+329,330,2019-05-31,In Store,Ben Carter,110,Product 110,Category 1,325,2,4.0
+330,331,2020-07-31,Online,Terry Gill,131,Product 131,Category 1,15,4,-0.0
+331,332,2019-06-18,Online,Terry Jones,255,Product 255,Category 1,219,4,3.0
+332,333,2021-10-31,Online,Janet Smith,262,Product 262,Category 1,15,4,1.0
+333,334,2020-03-31,In Store,Barry Gill,193,Product 193,Category 1,259,2,47.0
+334,335,2019-09-26,Online,Janet Cox,60,Product 60,Category 1,74,2,3.0
+335,336,2021-03-31,Online,Josephine Jones,386,Product 386,Category 2,248,3,97.0
+336,337,2019-07-31,Online,Steve Brown,172,Product 172,Category 1,261,8,14.0
+337,338,2021-05-31,Online,Ben Gill,387,Product 387,Category 2,233,2,70.0
+338,339,2020-06-17,Online,Gillian Green,151,Product 151,Category 1,332,6,64.0
+339,340,2019-11-13,Online,Simon Carter,205,Product 205,Category 1,369,6,4.0
+340,341,2021-09-08,Online,Gillian Carter,342,Product 342,Category 1,258,3,-7.0
+341,342,2020-01-31,Online,Sandra Carter,13,Product 13,Category 1,142,8,18.0
+342,343,2019-11-04,Online,Josephine Smith,391,Product 391,Category 2,220,8,73.0
+343,344,2019-10-31,Online,Barry Jackson,189,Product 189,Category 1,352,5,4.0
+344,345,2020-11-10,Online,Ben Jones,377,Product 377,Category 2,158,9,62.0
+345,346,2021-01-31,Online,Terry Cox,42,Product 42,Category 1,368,8,-18.0
+346,347,2021-07-31,In Store,Gillian Smith,256,Product 256,Category 1,249,4,-4.0
+347,348,2021-04-26,Online,Terry Brown,418,Product 418,Category 2,29,4,14.0
+348,349,2021-09-11,Online,Jenny Harper,79,Product 79,Category 1,371,1,49.0
+349,350,2021-04-11,In Store,Claire Smith,186,Product 186,Category 1,324,6,-6.0
+350,351,2021-05-31,Online,Simon Jackson,317,Product 317,Category 1,400,3,-16.0
+351,352,2021-06-09,In Store,Barry Green,132,Product 132,Category 1,36,1,6.0
+352,353,2020-09-16,In Store,Simon Smith,11,Product 11,Category 1,59,1,6.0
+353,354,2020-01-31,Online,Ben Sedgewick,172,Product 172,Category 1,40,6,6.0
+354,355,2021-01-31,In Store,Geoff Green,487,Product 487,Category 2,355,9,8.0
+355,356,2021-12-31,In Store,Simon Green,236,Product 236,Category 1,459,1,-4.0
+356,357,2019-04-02,Online,Simon Jones,233,Product 233,Category 1,461,2,79.0
+357,358,2019-11-08,In Store,Simon Brown,288,Product 288,Category 1,95,5,11.0
+358,359,2021-07-31,In Store,Simon Gill,74,Product 74,Category 1,68,6,0.0
+359,360,2021-02-15,Online,Simon Sedgewick,218,Product 218,Category 1,58,8,5.0
+360,361,2020-02-23,Online,Terry Jackson,470,Product 470,Category 2,463,2,209.0
+361,362,2019-02-11,In Store,Janet Gill,48,Product 48,Category 1,20,8,3.0
+362,363,2019-10-31,In Store,Terry Smith,105,Product 105,Category 1,433,4,-17.0
+363,364,2021-03-31,In Store,Sandra Wilson,63,Product 63,Category 1,168,9,-3.0
+364,365,2021-05-31,In Store,Geoff Gill,110,Product 110,Category 1,20,4,-0.0
+365,366,2021-03-31,In Store,Ben Jackson,78,Product 78,Category 1,19,5,3.0
+366,367,2020-10-31,Online,Ben Jones,445,Product 445,Category 2,64,7,29.0
+367,368,2019-02-20,In Store,Steve Cox,469,Product 469,Category 2,28,9,6.0
+368,369,2021-05-31,In Store,Sandra Cox,119,Product 119,Category 1,220,1,18.0
+369,370,2019-06-03,In Store,Jenny Jones,471,Product 471,Category 2,381,8,50.0
+370,371,2021-03-31,In Store,Gillian Gill,489,Product 489,Category 2,152,8,-7.0
+371,372,2021-03-31,Online,Steve Sedgewick,261,Product 261,Category 1,242,2,30.0
+372,373,2019-06-13,In Store,Simon Jackson,493,Product 493,Category 2,459,8,83.0
+373,374,2021-06-22,In Store,Terry Harper,434,Product 434,Category 2,94,1,1.0
+374,375,2019-11-10,In Store,Janet Sedgewick,51,Product 51,Category 1,285,8,35.0
+375,376,2021-10-31,Online,Claire Gill,228,Product 228,Category 1,420,1,-4.0
+376,377,2019-10-31,In Store,Simon Sedgewick,24,Product 24,Category 1,20,2,3.0
+377,378,2021-01-31,In Store,Josephine Green,413,Product 413,Category 2,295,9,9.0
+378,379,2021-05-31,Online,Gillian Smith,415,Product 415,Category 2,201,7,81.0
+379,380,2019-04-25,Online,Terry Sedgewick,327,Product 327,Category 1,53,7,5.0
+380,381,2021-06-29,In Store,Claire Davis,396,Product 396,Category 2,164,6,17.0
+381,382,2021-04-26,In Store,Gillian Sedgewick,388,Product 388,Category 2,361,3,58.0
+382,383,2021-02-17,In Store,Terry Brown,359,Product 359,Category 2,76,2,8.0
+383,384,2020-05-31,Online,Geoff Smith,422,Product 422,Category 2,239,5,75.0
+384,385,2021-11-03,Online,Geoff Carter,98,Product 98,Category 1,273,9,-13.0
+385,386,2020-02-27,In Store,Simon Carter,211,Product 211,Category 1,147,4,-1.0
+386,387,2020-06-03,In Store,Janet Harper,314,Product 314,Category 1,119,2,15.0
+387,388,2021-04-06,Online,Gillian Wilson,104,Product 104,Category 1,273,2,44.0
+388,389,2021-01-31,Online,Simon Carter,302,Product 302,Category 1,457,5,55.0
+389,390,2019-08-31,Online,Claire Jackson,248,Product 248,Category 1,338,4,-6.0
+390,391,2020-07-31,Online,Jenny Wilson,149,Product 149,Category 1,251,8,6.0
+391,392,2020-10-31,Online,Jenny Harper,37,Product 37,Category 1,429,1,52.0
+392,393,2019-01-31,In Store,Josephine Harper,1,Product 1,Category 1,492,9,40.0
+393,394,2020-09-28,In Store,Josephine Smith,34,Product 34,Category 1,165,4,25.0
+394,395,2020-10-31,In Store,Janet Davis,41,Product 41,Category 1,32,4,4.0
+395,396,2021-07-31,Online,Claire Green,284,Product 284,Category 1,405,9,17.0
+396,397,2021-07-31,In Store,Janet Cox,164,Product 164,Category 1,355,1,64.0
+397,398,2019-01-31,In Store,Josephine Sedgewick,298,Product 298,Category 1,456,2,55.0
+398,399,2020-08-31,Online,Geoff Gill,25,Product 25,Category 1,180,3,29.0
+399,400,2021-10-31,Online,Simon Carter,51,Product 51,Category 1,358,9,26.0
+400,401,2021-01-31,In Store,Terry Green,412,Product 412,Category 2,449,4,-4.0
+401,402,2021-03-31,In Store,Simon Jones,433,Product 433,Category 2,110,4,21.0
+402,403,2019-10-31,Online,Simon Davis,160,Product 160,Category 1,481,3,63.0
+403,404,2019-10-31,Online,Terry Harper,287,Product 287,Category 1,493,9,65.0
+404,405,2020-01-31,In Store,Terry Cox,213,Product 213,Category 1,48,1,0.0
+405,406,2021-06-09,Online,Janet Jackson,392,Product 392,Category 2,336,3,132.0
+406,407,2021-12-31,In Store,Jenny Wilson,382,Product 382,Category 2,61,1,8.0
+407,408,2021-01-31,In Store,Josephine Harper,402,Product 402,Category 2,165,4,9.0
+408,409,2019-05-31,In Store,Claire Carter,443,Product 443,Category 2,71,7,13.0
+409,410,2020-03-31,Online,Janet Smith,10,Product 10,Category 1,199,3,2.0
+410,411,2019-01-31,In Store,Sandra Davis,43,Product 43,Category 1,144,9,24.0
+411,412,2021-03-31,Online,Terry Smith,485,Product 485,Category 2,391,6,153.0
+412,413,2021-01-31,In Store,Josephine Davis,272,Product 272,Category 1,388,3,12.0
+413,414,2020-06-03,In Store,Ben Jackson,392,Product 392,Category 2,47,5,9.0
+414,415,2019-11-17,In Store,Simon Green,133,Product 133,Category 1,341,1,18.0
+415,416,2019-01-31,Online,Jenny Brown,178,Product 178,Category 1,140,4,19.0
+416,417,2020-01-31,In Store,Terry Sedgewick,431,Product 431,Category 2,466,5,56.0
+417,418,2021-03-31,Online,Gillian Carter,338,Product 338,Category 1,383,8,73.0
+418,419,2021-07-31,Online,Janet Gill,63,Product 63,Category 1,205,6,17.0
+419,420,2020-02-15,In Store,Steve Carter,403,Product 403,Category 2,256,2,21.0
+420,421,2021-11-15,In Store,Geoff Cox,139,Product 139,Category 1,352,8,25.0
+421,422,2021-08-31,In Store,Terry Green,199,Product 199,Category 1,63,9,11.0
+422,423,2021-05-31,Online,Janet Cox,40,Product 40,Category 1,139,9,23.0
+423,424,2019-06-16,In Store,Jenny Smith,17,Product 17,Category 1,267,7,27.0
+424,425,2020-01-31,In Store,Simon Jones,12,Product 12,Category 1,470,6,-14.0
+425,426,2020-04-05,Online,Steve Green,320,Product 320,Category 1,93,3,2.0
+426,427,2021-09-19,Online,Simon Harper,99,Product 99,Category 1,304,9,37.0
+427,428,2019-07-31,Online,Terry Carter,4,Product 4,Category 1,420,1,21.0
+428,429,2020-11-22,In Store,Sandra Smith,175,Product 175,Category 1,63,8,-1.0
+429,430,2020-03-31,In Store,Josephine Wilson,9,Product 9,Category 1,414,7,-12.0
+430,431,2019-03-31,Online,Terry Sedgewick,271,Product 271,Category 1,183,4,26.0
+431,432,2020-10-31,In Store,Terry Brown,467,Product 467,Category 2,369,1,19.0
+432,433,2019-01-31,In Store,Sandra Jones,219,Product 219,Category 1,140,7,7.0
+433,434,2021-01-31,In Store,Terry Green,441,Product 441,Category 2,257,4,0.0
+434,435,2021-10-31,Online,Josephine Cox,352,Product 352,Category 2,184,7,85.0
+435,436,2020-10-31,In Store,Gillian Wilson,152,Product 152,Category 1,206,2,21.0
+436,437,2021-04-29,Online,Barry Sedgewick,385,Product 385,Category 2,396,4,123.0
+437,438,2021-06-26,Online,Terry Green,372,Product 372,Category 2,392,8,134.0
+438,439,2019-12-31,Online,Jenny Cox,433,Product 433,Category 2,213,6,86.0
+439,440,2021-06-19,Online,Terry Carter,230,Product 230,Category 1,270,7,-2.0
+440,441,2019-06-17,Online,Sandra Green,91,Product 91,Category 1,97,7,5.0
+441,442,2020-12-31,Online,Claire Jones,64,Product 64,Category 1,336,3,54.0
+442,443,2021-08-31,Online,Simon Smith,401,Product 401,Category 2,16,6,5.0
+443,444,2019-05-31,Online,Ben Carter,499,Product 499,Category 2,464,5,154.0
+444,445,2020-09-07,In Store,Simon Davis,113,Product 113,Category 1,196,4,22.0
+445,446,2020-08-31,In Store,Geoff Wilson,118,Product 118,Category 1,222,4,34.0
+446,447,2021-09-14,In Store,Steve Jones,112,Product 112,Category 1,330,6,40.0
+447,448,2020-07-31,Online,Barry Green,46,Product 46,Category 1,398,1,76.0
+448,449,2020-10-31,Online,Sandra Harper,215,Product 215,Category 1,113,1,-5.0
+449,450,2021-03-31,In Store,Josephine Green,232,Product 232,Category 1,318,7,20.0
+450,451,2021-11-27,Online,Sandra Carter,225,Product 225,Category 1,188,4,17.0
+451,452,2019-04-19,In Store,Terry Davis,10,Product 10,Category 1,397,7,-19.0
+452,453,2020-08-31,In Store,Geoff Jones,314,Product 314,Category 1,363,5,-10.0
+453,454,2020-04-08,Online,Janet Gill,113,Product 113,Category 1,220,9,-11.0
+454,455,2020-02-06,Online,Janet Davis,202,Product 202,Category 1,204,8,9.0
+455,456,2020-03-31,Online,Barry Gill,204,Product 204,Category 1,469,3,52.0
+456,457,2019-05-31,In Store,Steve Sedgewick,130,Product 130,Category 1,373,8,30.0
+457,458,2019-10-31,In Store,Steve Jones,201,Product 201,Category 1,49,5,-1.0
+458,459,2020-09-02,Online,Claire Cox,127,Product 127,Category 1,262,8,45.0
+459,460,2020-09-13,Online,Terry Jones,362,Product 362,Category 2,355,1,128.0
+460,461,2021-09-13,Online,Jenny Jackson,291,Product 291,Category 1,381,4,0.0
+461,462,2019-06-27,Online,Claire Carter,136,Product 136,Category 1,34,1,4.0
+462,463,2019-05-31,In Store,Terry Smith,185,Product 185,Category 1,379,7,57.0
+463,464,2021-06-04,Online,Simon Brown,219,Product 219,Category 1,154,8,2.0
+464,465,2019-01-31,In Store,Janet Carter,300,Product 300,Category 1,69,6,-2.0
+465,466,2019-01-31,In Store,Sandra Green,453,Product 453,Category 2,386,3,4.0
+466,467,2020-02-10,Online,Claire Jones,286,Product 286,Category 1,180,3,-7.0
+467,468,2019-01-31,Online,Ben Carter,95,Product 95,Category 1,82,1,16.0
+468,469,2020-09-05,In Store,Claire Wilson,187,Product 187,Category 1,370,4,52.0
+469,470,2021-12-31,In Store,Josephine Brown,104,Product 104,Category 1,460,4,-18.0
+470,471,2019-12-31,Online,Jenny Gill,313,Product 313,Category 1,474,7,15.0
+471,472,2021-04-08,In Store,Josephine Cox,117,Product 117,Category 1,15,4,2.0
+472,473,2020-01-31,Online,Janet Wilson,130,Product 130,Category 1,175,8,28.0
+473,474,2020-06-24,Online,Sandra Green,333,Product 333,Category 1,229,1,5.0
+474,475,2020-01-31,In Store,Sandra Jones,159,Product 159,Category 1,11,8,1.0
+475,476,2020-12-31,In Store,Jenny Jackson,246,Product 246,Category 1,496,7,30.0
+476,477,2020-01-31,In Store,Ben Jackson,189,Product 189,Category 1,475,5,10.0
+477,478,2021-07-31,Online,Josephine Cox,2,Product 2,Category 1,100,8,9.0
+478,479,2019-02-09,Online,Geoff Davis,217,Product 217,Category 1,398,5,12.0
+479,480,2019-02-01,In Store,Gillian Gill,375,Product 375,Category 2,158,4,23.0
+480,481,2021-01-31,Online,Claire Smith,365,Product 365,Category 2,122,5,51.0
+481,482,2019-11-06,In Store,Josephine Harper,158,Product 158,Category 1,360,2,18.0
+482,483,2020-08-31,In Store,Steve Gill,156,Product 156,Category 1,110,1,-4.0
+483,484,2019-09-25,Online,Barry Sedgewick,420,Product 420,Category 2,192,3,87.0
+484,485,2020-08-31,Online,Terry Jackson,264,Product 264,Category 1,168,3,32.0
+485,486,2021-03-31,Online,Josephine Carter,481,Product 481,Category 2,429,7,202.0
+486,487,2019-10-31,Online,Gillian Brown,44,Product 44,Category 1,418,8,26.0
+487,488,2019-12-31,Online,Terry Sedgewick,144,Product 144,Category 1,163,2,17.0
+488,489,2021-01-31,Online,Janet Wilson,277,Product 277,Category 1,20,6,4.0
+489,490,2021-06-27,Online,Simon Carter,175,Product 175,Category 1,281,8,31.0
+490,491,2021-03-31,Online,Gillian Jones,77,Product 77,Category 1,409,4,74.0
+491,492,2021-05-31,In Store,Josephine Carter,176,Product 176,Category 1,24,2,0.0
+492,493,2020-02-14,Online,Josephine Smith,15,Product 15,Category 1,113,1,15.0
+493,494,2021-07-31,Online,Terry Jones,411,Product 411,Category 2,314,3,101.0
+494,495,2020-05-31,Online,Jenny Jones,478,Product 478,Category 2,235,3,71.0
+495,496,2021-09-17,Online,Steve Cox,93,Product 93,Category 1,223,4,43.0
+496,497,2020-08-31,In Store,Terry Harper,491,Product 491,Category 2,210,1,5.0
+497,498,2020-01-31,Online,Geoff Wilson,104,Product 104,Category 1,226,4,7.0
+498,499,2021-01-31,Online,Claire Carter,456,Product 456,Category 2,60,4,21.0
+499,500,2021-03-31,Online,Steve Smith,38,Product 38,Category 1,379,7,-18.0
+500,501,2019-04-19,Online,Simon Gill,357,Product 357,Category 2,239,7,79.0
+501,502,2021-09-03,In Store,Geoff Carter,417,Product 417,Category 2,438,9,0.0
+502,503,2020-04-17,Online,Gillian Green,268,Product 268,Category 1,296,2,6.0
+503,504,2020-12-31,In Store,Gillian Gill,179,Product 179,Category 1,129,8,25.0
+504,505,2021-02-23,In Store,Sandra Davis,243,Product 243,Category 1,54,6,5.0
+505,506,2019-06-03,In Store,Claire Wilson,495,Product 495,Category 2,409,1,70.0
+506,507,2021-02-20,Online,Jenny Gill,455,Product 455,Category 2,38,7,19.0
+507,508,2021-11-10,Online,Terry Smith,81,Product 81,Category 1,112,2,21.0
+508,509,2019-05-31,In Store,Sandra Smith,40,Product 40,Category 1,491,4,94.0
+509,510,2021-08-31,Online,Terry Gill,206,Product 206,Category 1,248,4,13.0
+510,511,2019-08-31,In Store,Simon Green,263,Product 263,Category 1,120,2,16.0
+511,512,2021-07-31,Online,Claire Harper,377,Product 377,Category 2,300,1,123.0
+512,513,2020-02-19,In Store,Simon Wilson,52,Product 52,Category 1,312,9,10.0
+513,514,2019-02-25,In Store,Terry Green,164,Product 164,Category 1,132,7,7.0
+514,515,2021-05-31,Online,Simon Sedgewick,394,Product 394,Category 2,494,5,183.0
+515,516,2021-03-31,In Store,Claire Gill,488,Product 488,Category 2,336,6,34.0
+516,517,2021-12-31,In Store,Claire Jones,447,Product 447,Category 2,176,2,0.0
+517,518,2021-02-03,Online,Jenny Davis,329,Product 329,Category 1,28,9,2.0
+518,519,2020-02-01,Online,Geoff Green,231,Product 231,Category 1,417,2,17.0
+519,520,2019-04-02,In Store,Jenny Gill,244,Product 244,Category 1,477,2,20.0
+520,521,2020-12-31,In Store,Barry Brown,330,Product 330,Category 1,191,7,12.0
+521,522,2021-04-03,Online,Gillian Cox,422,Product 422,Category 2,60,2,28.0
+522,523,2020-01-31,In Store,Gillian Wilson,435,Product 435,Category 2,439,4,-8.0
+523,524,2019-01-31,Online,Sandra Cox,204,Product 204,Category 1,303,9,22.0
+524,525,2021-04-16,In Store,Josephine Wilson,388,Product 388,Category 2,333,3,14.0
+525,526,2021-01-31,Online,Claire Gill,149,Product 149,Category 1,21,7,-1.0
+526,527,2021-05-31,In Store,Josephine Smith,248,Product 248,Category 1,240,9,-4.0
+527,528,2021-03-31,Online,Gillian Jones,180,Product 180,Category 1,237,6,0.0
+528,529,2021-08-31,Online,Claire Cox,283,Product 283,Category 1,456,9,14.0
+529,530,2019-03-31,Online,Sandra Green,475,Product 475,Category 2,121,8,44.0
+530,531,2021-11-11,In Store,Jenny Green,189,Product 189,Category 1,435,9,70.0
+531,532,2019-06-13,In Store,Janet Cox,445,Product 445,Category 2,497,2,25.0
+532,533,2021-03-31,In Store,Barry Harper,7,Product 7,Category 1,302,4,25.0
+533,534,2019-12-31,Online,Josephine Sedgewick,33,Product 33,Category 1,152,9,28.0
+534,535,2020-11-28,Online,Barry Smith,416,Product 416,Category 2,219,9,79.0
+535,536,2020-04-10,Online,Geoff Green,119,Product 119,Category 1,417,2,76.0
+536,537,2019-08-31,Online,Steve Wilson,294,Product 294,Category 1,150,7,18.0
+537,538,2019-04-02,In Store,Claire Brown,75,Product 75,Category 1,210,5,28.0
+538,539,2019-01-31,In Store,Sandra Brown,372,Product 372,Category 2,404,7,-16.0
+539,540,2020-12-31,Online,Josephine Sedgewick,401,Product 401,Category 2,399,5,192.0
+540,541,2020-02-27,Online,Josephine Davis,109,Product 109,Category 1,257,1,44.0
+541,542,2021-06-19,In Store,Gillian Davis,78,Product 78,Category 1,149,1,6.0
+542,543,2019-12-31,In Store,Simon Sedgewick,110,Product 110,Category 1,491,8,30.0
+543,544,2021-10-31,In Store,Ben Brown,162,Product 162,Category 1,469,5,52.0
+544,545,2021-10-31,Online,Janet Carter,111,Product 111,Category 1,53,8,7.0
+545,546,2020-06-01,In Store,Gillian Smith,241,Product 241,Category 1,316,7,23.0
+546,547,2020-02-09,Online,Steve Brown,127,Product 127,Category 1,486,2,15.0
+547,548,2021-07-31,Online,Gillian Cox,115,Product 115,Category 1,266,3,40.0
+548,549,2019-11-10,In Store,Jenny Sedgewick,224,Product 224,Category 1,302,6,-6.0
+549,550,2020-01-31,In Store,Ben Jones,102,Product 102,Category 1,124,9,-6.0
+550,551,2020-12-31,Online,Janet Green,313,Product 313,Category 1,170,7,16.0
+551,552,2019-10-31,In Store,Josephine Jackson,41,Product 41,Category 1,327,6,63.0
+552,553,2020-11-16,Online,Jenny Carter,437,Product 437,Category 2,264,1,93.0
+553,554,2021-08-31,Online,Jenny Jones,254,Product 254,Category 1,61,9,-0.0
+554,555,2019-08-31,In Store,Simon Gill,389,Product 389,Category 2,42,2,6.0
+555,556,2021-09-19,Online,Simon Sedgewick,446,Product 446,Category 2,28,5,10.0
+556,557,2019-10-31,In Store,Terry Wilson,366,Product 366,Category 2,16,9,1.0
+557,558,2019-05-31,Online,Jenny Carter,136,Product 136,Category 1,51,2,2.0
+558,559,2021-11-15,In Store,Ben Wilson,12,Product 12,Category 1,487,5,59.0
+559,560,2021-08-31,In Store,Steve Gill,279,Product 279,Category 1,227,9,14.0
+560,561,2019-02-16,In Store,Jenny Carter,190,Product 190,Category 1,453,8,-4.0
+561,562,2019-06-24,In Store,Claire Brown,240,Product 240,Category 1,118,9,13.0
+562,563,2020-12-31,Online,Geoff Cox,462,Product 462,Category 2,223,3,103.0
+563,564,2019-07-31,In Store,Steve Harper,143,Product 143,Category 1,191,3,12.0
+564,565,2019-11-24,In Store,Ben Jones,179,Product 179,Category 1,339,2,45.0
+565,566,2021-10-31,In Store,Jenny Jones,140,Product 140,Category 1,347,2,-6.0
+566,567,2019-08-31,In Store,Josephine Carter,342,Product 342,Category 1,59,6,7.0
+567,568,2021-10-31,In Store,Barry Sedgewick,88,Product 88,Category 1,116,2,-2.0
+568,569,2019-01-31,Online,Barry Harper,412,Product 412,Category 2,398,4,128.0
+569,570,2021-04-10,Online,Claire Jones,388,Product 388,Category 2,272,2,126.0
+570,571,2021-07-31,In Store,Geoff Wilson,256,Product 256,Category 1,170,4,9.0
+571,572,2019-02-22,Online,Josephine Sedgewick,330,Product 330,Category 1,66,1,10.0
+572,573,2019-07-31,In Store,Barry Sedgewick,5,Product 5,Category 1,287,6,49.0
+573,574,2020-06-16,Online,Jenny Jackson,437,Product 437,Category 2,336,3,105.0
+574,575,2020-02-24,In Store,Sandra Carter,28,Product 28,Category 1,158,9,23.0
+575,576,2019-04-12,In Store,Sandra Gill,336,Product 336,Category 1,403,5,0.0
+576,577,2020-09-15,Online,Gillian Wilson,185,Product 185,Category 1,406,2,5.0
+577,578,2019-08-31,Online,Claire Carter,464,Product 464,Category 2,320,3,148.0
+578,579,2021-07-31,In Store,Geoff Jackson,481,Product 481,Category 2,206,7,13.0
+579,580,2019-08-31,Online,Sandra Cox,195,Product 195,Category 1,286,8,-8.0
+580,581,2020-04-14,Online,Jenny Gill,21,Product 21,Category 1,432,9,-12.0
+581,582,2019-05-31,Online,Simon Carter,37,Product 37,Category 1,430,7,-4.0
+582,583,2019-04-02,In Store,Jenny Jones,478,Product 478,Category 2,26,1,3.0
+583,584,2021-01-31,Online,Geoff Sedgewick,6,Product 6,Category 1,476,8,77.0
+584,585,2019-12-31,In Store,Simon Smith,251,Product 251,Category 1,70,1,9.0
+585,586,2020-01-31,In Store,Simon Cox,410,Product 410,Category 2,43,3,7.0
+586,587,2020-11-04,Online,Jenny Jones,191,Product 191,Category 1,287,7,-2.0
+587,588,2020-12-31,Online,Steve Jackson,416,Product 416,Category 2,399,5,144.0
+588,589,2020-06-07,Online,Jenny Gill,128,Product 128,Category 1,360,6,-14.0
+589,590,2020-06-11,In Store,Gillian Brown,179,Product 179,Category 1,491,9,25.0
+590,591,2020-12-31,In Store,Geoff Sedgewick,391,Product 391,Category 2,369,2,26.0
+591,592,2019-02-15,Online,Barry Brown,250,Product 250,Category 1,377,6,72.0
+592,593,2019-10-31,Online,Janet Smith,446,Product 446,Category 2,491,7,221.0
+593,594,2019-01-31,In Store,Terry Sedgewick,339,Product 339,Category 1,131,9,25.0
+594,595,2021-02-11,Online,Barry Green,312,Product 312,Category 1,387,3,-3.0
+595,596,2019-12-31,Online,Ben Jackson,5,Product 5,Category 1,395,9,76.0
+596,597,2021-05-31,In Store,Simon Harper,312,Product 312,Category 1,429,1,56.0
+597,598,2019-09-14,In Store,Sandra Harper,242,Product 242,Category 1,425,7,22.0
+598,599,2020-04-28,In Store,Sandra Davis,13,Product 13,Category 1,359,6,-17.0
+599,600,2020-10-31,Online,Claire Smith,303,Product 303,Category 1,58,6,-0.0
+600,601,2020-03-31,Online,Geoff Brown,456,Product 456,Category 2,48,3,18.0
+601,602,2021-08-31,In Store,Sandra Green,32,Product 32,Category 1,95,9,-4.0
+602,603,2019-07-31,Online,Sandra Harper,187,Product 187,Category 1,208,2,17.0
+603,604,2021-01-31,In Store,Simon Jones,19,Product 19,Category 1,288,2,18.0
+604,605,2020-04-06,In Store,Sandra Gill,61,Product 61,Category 1,151,6,13.0
+605,606,2021-08-31,Online,Simon Cox,357,Product 357,Category 2,251,8,83.0
+606,607,2019-08-31,Online,Barry Carter,103,Product 103,Category 1,179,9,9.0
+607,608,2019-04-30,In Store,Ben Carter,422,Product 422,Category 2,161,2,26.0
+608,609,2020-09-23,Online,Ben Brown,478,Product 478,Category 2,287,2,107.0
+609,610,2020-02-03,Online,Sandra Carter,140,Product 140,Category 1,54,1,-1.0
+610,611,2021-08-31,Online,Jenny Smith,74,Product 74,Category 1,336,6,-3.0
+611,612,2020-07-31,Online,Josephine Carter,69,Product 69,Category 1,253,4,49.0
+612,613,2021-09-05,In Store,Janet Davis,62,Product 62,Category 1,167,8,24.0
+613,614,2021-10-31,In Store,Sandra Sedgewick,475,Product 475,Category 2,349,6,25.0
+614,615,2020-06-09,Online,Geoff Smith,375,Product 375,Category 2,489,2,172.0
+615,616,2021-08-31,Online,Ben Green,299,Product 299,Category 1,311,6,22.0
+616,617,2021-08-31,In Store,Gillian Gill,204,Product 204,Category 1,155,5,2.0
+617,618,2021-02-22,In Store,Geoff Carter,174,Product 174,Category 1,206,5,15.0
+618,619,2019-05-31,Online,Steve Cox,378,Product 378,Category 2,239,2,94.0
+619,620,2019-04-06,In Store,Sandra Green,326,Product 326,Category 1,464,2,-9.0
+620,621,2019-10-31,In Store,Josephine Gill,109,Product 109,Category 1,72,6,11.0
+621,622,2020-08-31,In Store,Ben Carter,407,Product 407,Category 2,140,9,26.0
+622,623,2021-09-12,Online,Barry Jones,367,Product 367,Category 2,343,7,117.0
+623,624,2020-05-31,Online,Ben Harper,286,Product 286,Category 1,273,6,17.0
+624,625,2020-06-17,In Store,Janet Sedgewick,466,Product 466,Category 2,363,1,30.0
+625,626,2020-05-31,Online,Claire Jones,97,Product 97,Category 1,105,6,17.0
+626,627,2020-12-31,In Store,Barry Smith,120,Product 120,Category 1,380,6,65.0
+627,628,2021-05-31,Online,Ben Davis,478,Product 478,Category 2,316,6,108.0
+628,629,2019-05-31,Online,Terry Jones,35,Product 35,Category 1,468,5,75.0
+629,630,2020-12-31,In Store,Terry Cox,455,Product 455,Category 2,231,1,26.0
+630,631,2021-01-31,In Store,Terry Wilson,287,Product 287,Category 1,274,2,-2.0
+631,632,2020-02-05,Online,Claire Jones,346,Product 346,Category 1,331,5,-6.0
+632,633,2020-06-03,Online,Janet Jackson,297,Product 297,Category 1,86,3,2.0
+633,634,2021-10-31,In Store,Barry Cox,59,Product 59,Category 1,251,7,46.0
+634,635,2019-08-31,In Store,Jenny Cox,354,Product 354,Category 2,78,1,0.0
+635,636,2021-08-31,In Store,Geoff Gill,159,Product 159,Category 1,451,6,-18.0
+636,637,2020-02-07,In Store,Geoff Sedgewick,269,Product 269,Category 1,232,6,3.0
+637,638,2020-02-14,Online,Simon Wilson,255,Product 255,Category 1,47,4,-2.0
+638,639,2021-04-08,Online,Gillian Smith,341,Product 341,Category 1,277,5,39.0
+639,640,2021-12-31,Online,Simon Brown,432,Product 432,Category 2,342,9,148.0
+640,641,2021-09-20,In Store,Terry Smith,433,Product 433,Category 2,180,4,20.0
+641,642,2020-11-16,Online,Terry Jones,146,Product 146,Category 1,412,9,-8.0
+642,643,2019-10-31,In Store,Jenny Gill,89,Product 89,Category 1,194,2,20.0
+643,644,2021-03-31,Online,Janet Sedgewick,46,Product 46,Category 1,32,4,-0.0
+644,645,2019-10-31,Online,Steve Harper,123,Product 123,Category 1,142,1,6.0
+645,646,2021-12-31,Online,Steve Cox,109,Product 109,Category 1,448,6,86.0
+646,647,2019-02-08,Online,Jenny Brown,118,Product 118,Category 1,417,8,46.0
+647,648,2019-03-31,Online,Janet Green,311,Product 311,Category 1,196,4,0.0
+648,649,2020-03-31,Online,Gillian Gill,25,Product 25,Category 1,75,1,4.0
+649,650,2019-11-29,Online,Sandra Smith,479,Product 479,Category 2,274,2,96.0
+650,651,2021-05-31,Online,Ben Jackson,436,Product 436,Category 2,398,2,168.0
+651,652,2019-08-31,In Store,Steve Wilson,32,Product 32,Category 1,363,2,69.0
+652,653,2020-07-31,In Store,Janet Smith,220,Product 220,Category 1,433,9,74.0
+653,654,2019-07-31,In Store,Simon Green,323,Product 323,Category 1,51,1,5.0
+654,655,2020-04-15,Online,Josephine Harper,157,Product 157,Category 1,355,4,57.0
+655,656,2021-10-31,In Store,Jenny Cox,86,Product 86,Category 1,459,5,33.0
+656,657,2019-03-31,Online,Terry Smith,469,Product 469,Category 2,36,3,15.0
+657,658,2020-07-31,In Store,Simon Gill,108,Product 108,Category 1,431,2,-12.0
+658,659,2020-10-31,Online,Barry Green,152,Product 152,Category 1,434,6,74.0
+659,660,2021-01-31,In Store,Jenny Sedgewick,80,Product 80,Category 1,137,2,25.0
+660,661,2020-02-01,Online,Ben Cox,373,Product 373,Category 2,471,5,161.0
+661,662,2021-03-31,In Store,Janet Wilson,147,Product 147,Category 1,455,4,60.0
+662,663,2021-08-31,Online,Josephine Harper,93,Product 93,Category 1,436,1,53.0
+663,664,2020-09-02,In Store,Steve Smith,387,Product 387,Category 2,204,4,27.0
+664,665,2020-12-31,In Store,Gillian Davis,474,Product 474,Category 2,418,3,13.0
+665,666,2020-01-31,Online,Barry Smith,453,Product 453,Category 2,492,9,232.0
+666,667,2019-02-27,Online,Josephine Jackson,164,Product 164,Category 1,269,1,33.0
+667,668,2019-08-31,Online,Gillian Smith,487,Product 487,Category 2,178,2,59.0
+668,669,2019-10-31,In Store,Jenny Smith,376,Product 376,Category 2,289,3,29.0
+669,670,2019-01-31,In Store,Josephine Gill,422,Product 422,Category 2,375,6,-15.0
+670,671,2019-04-24,In Store,Gillian Cox,39,Product 39,Category 1,366,6,37.0
+671,672,2021-02-14,In Store,Geoff Gill,167,Product 167,Category 1,281,2,9.0
+672,673,2019-02-26,Online,Terry Jones,153,Product 153,Category 1,54,8,0.0
+673,674,2020-03-31,Online,Claire Green,311,Product 311,Category 1,115,8,18.0
+674,675,2021-06-28,In Store,Jenny Carter,112,Product 112,Category 1,483,5,-19.0
+675,676,2019-07-31,In Store,Geoff Cox,227,Product 227,Category 1,229,3,19.0
+676,677,2020-04-01,Online,Jenny Green,270,Product 270,Category 1,351,6,11.0
+677,678,2019-12-31,In Store,Steve Davis,271,Product 271,Category 1,405,8,13.0
+678,679,2019-10-31,Online,Barry Davis,56,Product 56,Category 1,346,1,52.0
+679,680,2020-10-31,Online,Josephine Davis,430,Product 430,Category 2,324,8,140.0
+680,681,2021-11-22,In Store,Claire Sedgewick,265,Product 265,Category 1,16,4,2.0
+681,682,2020-12-31,In Store,Geoff Sedgewick,123,Product 123,Category 1,209,5,28.0
+682,683,2019-05-31,In Store,Ben Davis,64,Product 64,Category 1,399,6,16.0
+683,684,2020-01-31,In Store,Claire Cox,265,Product 265,Category 1,189,8,6.0
+684,685,2019-05-31,Online,Simon Smith,402,Product 402,Category 2,459,4,175.0
+685,686,2020-04-25,In Store,Janet Davis,295,Product 295,Category 1,179,7,-7.0
+686,687,2020-07-31,In Store,Jenny Davis,211,Product 211,Category 1,225,7,18.0
+687,688,2021-06-02,Online,Geoff Gill,293,Product 293,Category 1,356,9,33.0
+688,689,2019-01-31,Online,Steve Carter,360,Product 360,Category 2,451,1,145.0
+689,690,2021-06-22,In Store,Gillian Sedgewick,140,Product 140,Category 1,203,1,11.0
+690,691,2020-11-24,Online,Janet Jackson,430,Product 430,Category 2,80,5,26.0
+691,692,2021-09-30,In Store,Sandra Harper,362,Product 362,Category 2,261,3,50.0
+692,693,2019-12-31,Online,Janet Cox,499,Product 499,Category 2,473,3,171.0
+693,694,2021-11-07,In Store,Janet Gill,419,Product 419,Category 2,494,5,30.0
+694,695,2020-06-01,Online,Jenny Harper,204,Product 204,Category 1,296,6,57.0
+695,696,2020-03-31,In Store,Steve Brown,497,Product 497,Category 2,94,2,1.0
+696,697,2020-05-31,Online,Geoff Brown,481,Product 481,Category 2,82,3,26.0
+697,698,2019-03-31,Online,Gillian Davis,13,Product 13,Category 1,217,2,42.0
+698,699,2020-09-23,Online,Barry Wilson,172,Product 172,Category 1,53,6,-2.0
+699,700,2019-08-31,Online,Claire Davis,357,Product 357,Category 2,279,3,134.0
+700,701,2021-01-31,In Store,Ben Davis,154,Product 154,Category 1,176,1,27.0
+701,702,2020-01-31,Online,Josephine Carter,271,Product 271,Category 1,137,3,16.0
+702,703,2019-09-20,In Store,Janet Jones,217,Product 217,Category 1,58,8,2.0
+703,704,2020-03-31,Online,Geoff Cox,419,Product 419,Category 2,82,8,29.0
+704,705,2021-09-29,In Store,Steve Wilson,166,Product 166,Category 1,142,3,19.0
+705,706,2020-08-31,Online,Sandra Harper,363,Product 363,Category 2,447,5,148.0
+706,707,2020-03-31,Online,Gillian Sedgewick,319,Product 319,Category 1,475,9,0.0
+707,708,2019-05-31,In Store,Sandra Gill,307,Product 307,Category 1,284,1,37.0
+708,709,2021-09-21,Online,Ben Jackson,282,Product 282,Category 1,411,3,-4.0
+709,710,2020-11-15,In Store,Ben Green,304,Product 304,Category 1,208,9,25.0
+710,711,2019-10-31,Online,Jenny Wilson,257,Product 257,Category 1,171,3,31.0
+711,712,2021-02-12,Online,Simon Cox,101,Product 101,Category 1,171,7,31.0
+712,713,2021-05-31,In Store,Claire Smith,488,Product 488,Category 2,110,5,0.0
+713,714,2020-01-31,In Store,Ben Smith,107,Product 107,Category 1,313,6,57.0
+714,715,2021-10-31,In Store,Terry Cox,202,Product 202,Category 1,86,4,-3.0
+715,716,2019-08-31,In Store,Jenny Green,105,Product 105,Category 1,160,6,23.0
+716,717,2020-03-31,Online,Jenny Jones,432,Product 432,Category 2,201,1,79.0
+717,718,2019-12-31,Online,Sandra Cox,295,Product 295,Category 1,110,7,15.0
+718,719,2020-11-03,In Store,Steve Wilson,415,Product 415,Category 2,288,6,55.0
+719,720,2021-09-20,In Store,Geoff Carter,288,Product 288,Category 1,21,7,3.0
+720,721,2021-11-15,Online,Sandra Gill,271,Product 271,Category 1,113,2,8.0
+721,722,2019-09-23,In Store,Steve Jackson,249,Product 249,Category 1,371,8,19.0
+722,723,2019-02-16,Online,Geoff Green,170,Product 170,Category 1,443,4,36.0
+723,724,2020-09-16,Online,Jenny Gill,8,Product 8,Category 1,314,2,51.0
+724,725,2021-05-31,In Store,Gillian Cox,493,Product 493,Category 2,22,1,4.0
+725,726,2021-04-25,Online,Geoff Brown,436,Product 436,Category 2,327,8,154.0
+726,727,2019-02-06,Online,Janet Wilson,65,Product 65,Category 1,298,5,-2.0
+727,728,2020-11-30,Online,Janet Green,43,Product 43,Category 1,281,4,43.0
+728,729,2020-07-31,Online,Barry Jackson,248,Product 248,Category 1,324,9,7.0
+729,730,2020-03-31,Online,Jenny Brown,358,Product 358,Category 2,210,6,78.0
+730,731,2019-11-25,In Store,Geoff Brown,14,Product 14,Category 1,402,5,-16.0
+731,732,2019-08-31,Online,Terry Cox,66,Product 66,Category 1,123,3,-4.0
+732,733,2020-08-31,In Store,Sandra Wilson,495,Product 495,Category 2,486,6,73.0
+733,734,2021-07-31,Online,Steve Carter,251,Product 251,Category 1,345,9,11.0
+734,735,2019-12-31,In Store,Barry Wilson,438,Product 438,Category 2,249,3,13.0
+735,736,2019-04-08,In Store,Jenny Jackson,77,Product 77,Category 1,499,7,-19.0
+736,737,2020-03-31,Online,Claire Gill,347,Product 347,Category 1,114,7,19.0
+737,738,2021-03-31,In Store,Janet Sedgewick,381,Product 381,Category 2,335,2,24.0
+738,739,2020-12-31,Online,Terry Gill,183,Product 183,Category 1,361,5,22.0
+739,740,2021-11-13,Online,Gillian Carter,482,Product 482,Category 2,321,5,135.0
+740,741,2020-12-31,In Store,Sandra Harper,354,Product 354,Category 2,129,7,-1.0
+741,742,2020-05-31,Online,Geoff Carter,467,Product 467,Category 2,34,2,15.0
+742,743,2020-01-31,Online,Janet Cox,156,Product 156,Category 1,485,1,68.0
+743,744,2021-08-31,Online,Simon Carter,238,Product 238,Category 1,124,8,24.0
+744,745,2019-06-04,Online,Sandra Jones,277,Product 277,Category 1,321,6,61.0
+745,746,2019-05-31,Online,Barry Davis,59,Product 59,Category 1,49,2,2.0
+746,747,2021-01-31,In Store,Josephine Wilson,419,Product 419,Category 2,51,4,5.0
+747,748,2021-06-20,Online,Geoff Carter,466,Product 466,Category 2,78,9,37.0
+748,749,2021-12-31,Online,Terry Davis,227,Product 227,Category 1,398,9,28.0
+749,750,2019-11-29,In Store,Josephine Davis,198,Product 198,Category 1,407,7,-20.0
+750,751,2020-09-15,Online,Josephine Smith,76,Product 76,Category 1,486,7,88.0
+751,752,2020-08-31,In Store,Steve Carter,388,Product 388,Category 2,413,2,21.0
+752,753,2021-01-31,Online,Steve Cox,19,Product 19,Category 1,217,5,14.0
+753,754,2020-07-31,Online,Geoff Gill,94,Product 94,Category 1,29,8,-1.0
+754,755,2021-12-31,Online,Steve Sedgewick,149,Product 149,Category 1,199,1,-9.0
+755,756,2020-04-30,Online,Ben Brown,83,Product 83,Category 1,26,5,1.0
+756,757,2021-07-31,In Store,Simon Harper,38,Product 38,Category 1,285,2,-2.0
+757,758,2019-06-09,In Store,Gillian Gill,344,Product 344,Category 1,304,7,46.0
+758,759,2019-06-10,Online,Steve Green,323,Product 323,Category 1,499,4,10.0
+759,760,2021-02-02,Online,Sandra Smith,266,Product 266,Category 1,450,9,-9.0
+760,761,2021-04-01,In Store,Janet Carter,223,Product 223,Category 1,236,8,3.0
+761,762,2020-04-28,In Store,Barry Brown,65,Product 65,Category 1,121,4,-2.0
+762,763,2019-09-09,In Store,Terry Carter,288,Product 288,Category 1,332,3,50.0
+763,764,2019-03-31,Online,Ben Davis,88,Product 88,Category 1,93,4,10.0
+764,765,2021-05-31,Online,Terry Harper,229,Product 229,Category 1,381,1,-3.0
+765,766,2021-11-16,Online,Simon Jones,154,Product 154,Category 1,250,4,18.0
+766,767,2020-01-31,In Store,Steve Sedgewick,342,Product 342,Category 1,206,9,0.0
+767,768,2019-02-03,In Store,Janet Harper,66,Product 66,Category 1,279,9,17.0
+768,769,2019-09-12,Online,Jenny Carter,426,Product 426,Category 2,497,8,234.0
+769,770,2020-10-31,In Store,Geoff Green,122,Product 122,Category 1,427,5,-21.0
+770,771,2021-11-25,Online,Terry Smith,170,Product 170,Category 1,106,2,19.0
+771,772,2019-07-31,In Store,Gillian Sedgewick,289,Product 289,Category 1,271,8,33.0
+772,773,2019-06-23,In Store,Terry Green,317,Product 317,Category 1,88,7,11.0
+773,774,2019-09-09,Online,Ben Wilson,339,Product 339,Category 1,458,7,-13.0
+774,775,2021-02-26,In Store,Josephine Carter,451,Product 451,Category 2,233,6,45.0
+775,776,2019-12-31,Online,Geoff Jackson,99,Product 99,Category 1,167,1,2.0
+776,777,2021-08-31,Online,Geoff Green,171,Product 171,Category 1,275,8,-11.0
+777,778,2020-01-31,Online,Barry Cox,349,Product 349,Category 1,170,5,-8.0
+778,779,2020-02-17,In Store,Ben Cox,76,Product 76,Category 1,101,2,10.0
+779,780,2020-06-14,Online,Sandra Jones,375,Product 375,Category 2,194,7,74.0
+780,781,2020-01-31,In Store,Gillian Carter,30,Product 30,Category 1,278,9,-13.0
+781,782,2020-07-31,In Store,Geoff Brown,348,Product 348,Category 1,452,7,55.0
+782,783,2019-05-31,In Store,Josephine Wilson,230,Product 230,Category 1,100,2,0.0
+783,784,2020-02-05,Online,Claire Brown,276,Product 276,Category 1,16,7,-0.0
+784,785,2021-03-31,In Store,Josephine Carter,395,Product 395,Category 2,328,2,7.0
+785,786,2019-09-22,In Store,Janet Gill,141,Product 141,Category 1,13,4,1.0
+786,787,2019-06-09,In Store,Gillian Wilson,104,Product 104,Category 1,379,7,-15.0
+787,788,2019-09-21,In Store,Geoff Cox,342,Product 342,Category 1,74,1,11.0
+788,789,2020-06-17,Online,Ben Davis,197,Product 197,Category 1,340,8,-3.0
+789,790,2019-09-03,Online,Gillian Wilson,78,Product 78,Category 1,374,3,45.0
+790,791,2019-01-31,In Store,Gillian Sedgewick,161,Product 161,Category 1,457,4,64.0
+791,792,2019-02-17,In Store,Claire Cox,47,Product 47,Category 1,267,5,49.0
+792,793,2019-07-31,Online,Ben Cox,301,Product 301,Category 1,345,2,32.0
+793,794,2020-01-31,Online,Terry Carter,167,Product 167,Category 1,169,5,9.0
+794,795,2021-02-18,In Store,Ben Green,483,Product 483,Category 2,338,2,-13.0
+795,796,2021-07-31,In Store,Sandra Green,206,Product 206,Category 1,440,3,-13.0
+796,797,2021-01-31,In Store,Ben Jackson,148,Product 148,Category 1,151,6,13.0
+797,798,2019-06-21,In Store,Barry Gill,94,Product 94,Category 1,215,4,24.0
+798,799,2020-03-31,In Store,Josephine Wilson,474,Product 474,Category 2,463,3,14.0
+799,800,2021-01-31,In Store,Steve Carter,324,Product 324,Category 1,461,3,88.0
+800,801,2020-12-31,In Store,Simon Brown,257,Product 257,Category 1,198,7,30.0
+801,802,2019-08-31,In Store,Barry Cox,489,Product 489,Category 2,182,5,-3.0
+802,803,2021-11-25,In Store,Ben Jones,99,Product 99,Category 1,94,1,10.0
+803,804,2019-05-31,Online,Claire Gill,11,Product 11,Category 1,438,2,-8.0
+804,805,2020-08-31,Online,Janet Gill,250,Product 250,Category 1,108,5,15.0
+805,806,2020-10-31,In Store,Gillian Smith,345,Product 345,Category 1,315,5,7.0
+806,807,2019-02-21,Online,Gillian Carter,454,Product 454,Category 2,111,3,42.0
+807,808,2021-10-31,Online,Terry Carter,255,Product 255,Category 1,461,8,-13.0
+808,809,2019-07-31,In Store,Ben Cox,370,Product 370,Category 2,383,6,39.0
+809,810,2021-08-31,Online,Steve Sedgewick,458,Product 458,Category 2,232,2,84.0
+810,811,2021-08-31,In Store,Claire Green,192,Product 192,Category 1,10,4,-0.0
+811,812,2020-07-31,Online,Ben Carter,177,Product 177,Category 1,472,9,90.0
+812,813,2021-05-31,Online,Claire Jackson,472,Product 472,Category 2,302,1,97.0
+813,814,2021-08-31,In Store,Janet Jones,419,Product 419,Category 2,10,3,2.0
+814,815,2019-09-09,In Store,Claire Sedgewick,372,Product 372,Category 2,160,8,2.0
+815,816,2020-10-31,Online,Josephine Harper,377,Product 377,Category 2,344,9,114.0
+816,817,2020-03-31,In Store,Gillian Smith,276,Product 276,Category 1,155,2,0.0
+817,818,2019-11-25,Online,Steve Wilson,101,Product 101,Category 1,330,2,-6.0
+818,819,2021-06-19,Online,Ben Brown,340,Product 340,Category 1,469,3,76.0
+819,820,2021-08-31,Online,Janet Green,365,Product 365,Category 2,214,3,103.0
+820,821,2021-06-10,In Store,Sandra Cox,79,Product 79,Category 1,27,2,-0.0
+821,822,2020-10-31,Online,Josephine Wilson,132,Product 132,Category 1,496,3,80.0
+822,823,2021-12-31,Online,Janet Jones,84,Product 84,Category 1,447,2,5.0
+823,824,2020-01-31,In Store,Barry Brown,137,Product 137,Category 1,491,8,30.0
+824,825,2019-02-09,Online,Simon Carter,185,Product 185,Category 1,400,6,-12.0
+825,826,2019-10-31,In Store,Josephine Davis,450,Product 450,Category 2,283,4,46.0
+826,827,2020-12-31,Online,Sandra Brown,486,Product 486,Category 2,279,7,104.0
+827,828,2019-11-04,Online,Barry Carter,76,Product 76,Category 1,60,2,9.0
+828,829,2021-07-31,Online,Jenny Davis,110,Product 110,Category 1,355,4,43.0
+829,830,2021-04-12,In Store,Jenny Jackson,85,Product 85,Category 1,336,3,58.0
+830,831,2021-04-07,In Store,Terry Carter,453,Product 453,Category 2,418,2,34.0
+831,832,2020-07-31,In Store,Jenny Green,126,Product 126,Category 1,153,6,0.0
+832,833,2019-11-15,Online,Sandra Green,254,Product 254,Category 1,103,6,18.0
+833,834,2021-12-31,In Store,Jenny Jackson,355,Product 355,Category 2,107,6,20.0
+834,835,2019-04-17,Online,Claire Jones,52,Product 52,Category 1,261,6,-7.0
+835,836,2019-07-31,In Store,Janet Sedgewick,222,Product 222,Category 1,117,2,17.0
+836,837,2020-02-25,In Store,Terry Jackson,456,Product 456,Category 2,331,9,34.0
+837,838,2019-06-04,Online,Sandra Green,292,Product 292,Category 1,120,4,-6.0
+838,839,2021-11-05,Online,Gillian Green,161,Product 161,Category 1,308,5,-9.0
+839,840,2021-06-21,Online,Simon Gill,53,Product 53,Category 1,77,4,7.0
+840,841,2019-02-06,Online,Barry Sedgewick,409,Product 409,Category 2,302,9,109.0
+841,842,2019-11-08,Online,Jenny Jackson,333,Product 333,Category 1,248,7,8.0
+842,843,2020-11-13,Online,Josephine Jackson,201,Product 201,Category 1,17,6,3.0
+843,844,2019-09-02,In Store,Claire Cox,406,Product 406,Category 2,415,4,17.0
+844,845,2021-03-31,Online,Claire Sedgewick,10,Product 10,Category 1,427,2,60.0
+845,846,2020-01-31,Online,Claire Harper,351,Product 351,Category 2,364,2,168.0
+846,847,2020-02-02,In Store,Josephine Green,418,Product 418,Category 2,279,6,42.0
+847,848,2020-02-27,Online,Terry Davis,316,Product 316,Category 1,488,1,0.0
+848,849,2021-09-01,Online,Simon Smith,157,Product 157,Category 1,289,5,55.0
+849,850,2020-01-31,In Store,Jenny Davis,243,Product 243,Category 1,161,5,-8.0
+850,851,2021-12-31,Online,Janet Cox,331,Product 331,Category 1,197,3,-7.0
+851,852,2019-10-31,Online,Sandra Sedgewick,231,Product 231,Category 1,247,6,13.0
+852,853,2021-04-06,Online,Ben Green,441,Product 441,Category 2,235,3,76.0
+853,854,2020-01-31,Online,Jenny Wilson,181,Product 181,Category 1,209,6,15.0
+854,855,2021-05-31,In Store,Claire Harper,129,Product 129,Category 1,244,8,40.0
+855,856,2021-04-21,In Store,Geoff Jackson,314,Product 314,Category 1,246,9,-9.0
+856,857,2019-09-23,In Store,Geoff Sedgewick,200,Product 200,Category 1,181,1,11.0
+857,858,2021-10-31,In Store,Josephine Harper,445,Product 445,Category 2,66,9,-1.0
+858,859,2020-02-16,In Store,Geoff Sedgewick,184,Product 184,Category 1,76,9,-0.0
+859,860,2021-05-31,In Store,Steve Jones,223,Product 223,Category 1,411,4,70.0
+860,861,2019-02-12,Online,Janet Harper,447,Product 447,Category 2,36,1,17.0
+861,862,2020-07-31,Online,Barry Gill,351,Product 351,Category 2,452,4,163.0
+862,863,2020-11-18,Online,Geoff Brown,342,Product 342,Category 1,388,9,63.0
+863,864,2019-02-20,In Store,Claire Harper,225,Product 225,Category 1,210,1,34.0
+864,865,2020-06-16,In Store,Jenny Wilson,148,Product 148,Category 1,73,5,11.0
+865,866,2021-11-12,Online,Simon Carter,453,Product 453,Category 2,321,7,122.0
+866,867,2020-09-06,Online,Terry Jackson,448,Product 448,Category 2,317,5,156.0
+867,868,2021-01-31,In Store,Claire Carter,70,Product 70,Category 1,410,2,78.0
+868,869,2021-10-31,Online,Geoff Green,197,Product 197,Category 1,180,7,18.0
+869,870,2020-12-31,In Store,Steve Wilson,64,Product 64,Category 1,215,4,-4.0
+870,871,2021-01-31,In Store,Gillian Sedgewick,456,Product 456,Category 2,45,1,-1.0
+871,872,2020-07-31,In Store,Barry Carter,363,Product 363,Category 2,187,6,27.0
+872,873,2019-01-31,Online,Steve Cox,477,Product 477,Category 2,296,8,104.0
+873,874,2021-10-31,Online,Josephine Davis,384,Product 384,Category 2,27,6,9.0
+874,875,2021-12-31,In Store,Josephine Green,121,Product 121,Category 1,23,9,0.0
+875,876,2021-03-31,Online,Barry Smith,109,Product 109,Category 1,303,5,19.0
+876,877,2020-02-23,In Store,Gillian Smith,341,Product 341,Category 1,470,5,10.0
+877,878,2020-09-28,In Store,Sandra Green,177,Product 177,Category 1,149,8,11.0
+878,879,2021-08-31,Online,Gillian Cox,89,Product 89,Category 1,370,7,71.0
+879,880,2021-10-31,In Store,Geoff Harper,10,Product 10,Category 1,391,2,47.0
+880,881,2020-11-26,In Store,Terry Gill,407,Product 407,Category 2,391,1,75.0
+881,882,2019-01-31,In Store,Josephine Gill,256,Product 256,Category 1,280,1,37.0
+882,883,2021-06-17,Online,Barry Harper,341,Product 341,Category 1,181,1,31.0
+883,884,2020-04-18,In Store,Barry Brown,470,Product 470,Category 2,144,9,19.0
+884,885,2019-07-31,In Store,Geoff Cox,44,Product 44,Category 1,41,9,7.0
+885,886,2021-12-31,Online,Barry Gill,259,Product 259,Category 1,155,6,2.0
+886,887,2021-11-26,Online,Simon Harper,476,Product 476,Category 2,155,6,49.0
+887,888,2021-08-31,In Store,Barry Wilson,169,Product 169,Category 1,273,3,9.0
+888,889,2020-03-31,Online,Steve Carter,189,Product 189,Category 1,398,7,-11.0
+889,890,2020-06-14,In Store,Simon Cox,67,Product 67,Category 1,278,3,-13.0
+890,891,2019-04-03,In Store,Geoff Cox,405,Product 405,Category 2,45,7,1.0
+891,892,2020-12-31,Online,Janet Harper,330,Product 330,Category 1,458,1,-22.0
+892,893,2021-08-31,Online,Terry Green,304,Product 304,Category 1,84,7,7.0
+893,894,2021-03-31,Online,Josephine Jackson,392,Product 392,Category 2,10,3,4.0
+894,895,2020-11-09,Online,Simon Brown,285,Product 285,Category 1,41,7,3.0
+895,896,2019-02-01,Online,Terry Green,326,Product 326,Category 1,17,3,-0.0
+896,897,2020-04-06,Online,Terry Green,263,Product 263,Category 1,279,3,54.0
+897,898,2019-03-31,Online,Jenny Sedgewick,29,Product 29,Category 1,186,5,-3.0
+898,899,2021-08-31,In Store,Simon Brown,368,Product 368,Category 2,395,3,8.0
+899,900,2020-05-31,Online,Terry Jones,312,Product 312,Category 1,90,8,8.0
+900,901,2020-03-31,Online,Janet Jackson,157,Product 157,Category 1,359,1,11.0
+901,902,2019-11-02,Online,Claire Harper,89,Product 89,Category 1,110,7,3.0
+902,903,2019-03-31,In Store,Barry Gill,14,Product 14,Category 1,70,3,2.0
+903,904,2019-05-31,In Store,Jenny Jackson,17,Product 17,Category 1,309,8,56.0
+904,905,2020-12-31,In Store,Terry Jones,373,Product 373,Category 2,448,6,-17.0
+905,906,2019-06-09,In Store,Terry Davis,314,Product 314,Category 1,425,3,9.0
+906,907,2020-05-31,In Store,Simon Harper,356,Product 356,Category 2,231,4,-2.0
+907,908,2021-04-18,Online,Terry Harper,224,Product 224,Category 1,11,6,-0.0
+908,909,2020-06-06,In Store,Josephine Davis,161,Product 161,Category 1,147,4,2.0
+909,910,2019-09-22,In Store,Claire Brown,13,Product 13,Category 1,434,1,0.0
+910,911,2020-06-01,Online,Steve Gill,427,Product 427,Category 2,16,1,8.0
+911,912,2021-06-27,Online,Josephine Jones,387,Product 387,Category 2,499,7,155.0
+912,913,2021-11-29,Online,Sandra Smith,299,Product 299,Category 1,155,6,-3.0
+913,914,2021-07-31,In Store,Geoff Carter,126,Product 126,Category 1,222,1,-2.0
+914,915,2021-08-31,Online,Josephine Harper,117,Product 117,Category 1,254,9,8.0
+915,916,2021-07-31,Online,Geoff Wilson,79,Product 79,Category 1,341,1,41.0
+916,917,2020-01-31,In Store,Steve Jackson,94,Product 94,Category 1,25,1,0.0
+917,918,2021-07-31,In Store,Janet Wilson,425,Product 425,Category 2,130,3,2.0
+918,919,2019-12-31,In Store,Geoff Jones,439,Product 439,Category 2,170,5,-5.0
+919,920,2020-11-01,In Store,Simon Sedgewick,189,Product 189,Category 1,150,4,3.0
+920,921,2020-11-03,In Store,Steve Green,41,Product 41,Category 1,216,2,5.0
+921,922,2019-08-31,In Store,Terry Carter,295,Product 295,Category 1,292,7,21.0
+922,923,2019-01-31,In Store,Simon Brown,7,Product 7,Category 1,318,1,48.0
+923,924,2019-07-31,In Store,Josephine Jones,202,Product 202,Category 1,220,4,-2.0
+924,925,2019-03-31,In Store,Josephine Brown,137,Product 137,Category 1,430,6,-21.0
+925,926,2019-02-04,Online,Steve Brown,299,Product 299,Category 1,232,2,-11.0
+926,927,2020-12-31,In Store,Sandra Smith,191,Product 191,Category 1,496,2,-19.0
+927,928,2019-03-31,In Store,Janet Brown,270,Product 270,Category 1,136,7,13.0
+928,929,2020-01-31,In Store,Sandra Brown,472,Product 472,Category 2,290,3,-8.0
+929,930,2019-12-31,In Store,Sandra Sedgewick,48,Product 48,Category 1,437,7,49.0
+930,931,2019-03-31,In Store,Steve Sedgewick,447,Product 447,Category 2,54,7,2.0
+931,932,2021-03-31,Online,Barry Harper,304,Product 304,Category 1,216,9,29.0
+932,933,2019-02-09,Online,Claire Jackson,473,Product 473,Category 2,229,3,88.0
+933,934,2020-12-31,Online,Sandra Jackson,301,Product 301,Category 1,318,3,55.0
+934,935,2019-10-31,Online,Ben Jackson,402,Product 402,Category 2,359,9,137.0
+935,936,2021-01-31,In Store,Simon Green,266,Product 266,Category 1,287,9,15.0
+936,937,2020-10-31,Online,Claire Davis,288,Product 288,Category 1,198,3,-5.0
+937,938,2019-05-31,In Store,Steve Cox,146,Product 146,Category 1,397,6,76.0
+938,939,2021-04-03,Online,Steve Sedgewick,361,Product 361,Category 2,66,9,27.0
+939,940,2021-10-31,In Store,Claire Brown,191,Product 191,Category 1,280,8,-8.0
+940,941,2021-05-31,Online,Steve Cox,415,Product 415,Category 2,295,2,101.0
+941,942,2019-04-20,Online,Jenny Sedgewick,21,Product 21,Category 1,342,5,28.0
+942,943,2020-10-31,In Store,Steve Wilson,32,Product 32,Category 1,350,9,-7.0
+943,944,2021-07-31,In Store,Janet Wilson,1,Product 1,Category 1,447,9,68.0
+944,945,2021-10-31,Online,Josephine Green,322,Product 322,Category 1,449,8,81.0
+945,946,2020-06-02,In Store,Simon Davis,65,Product 65,Category 1,423,8,13.0
+946,947,2019-08-31,Online,Josephine Smith,364,Product 364,Category 2,54,8,18.0
+947,948,2021-11-16,In Store,Terry Davis,261,Product 261,Category 1,394,8,75.0
+948,949,2021-11-24,Online,Claire Brown,251,Product 251,Category 1,240,5,34.0
+949,950,2019-07-31,In Store,Ben Gill,185,Product 185,Category 1,397,6,76.0
+950,951,2020-12-31,Online,Ben Jones,189,Product 189,Category 1,184,9,24.0
+951,952,2019-02-07,Online,Geoff Jones,17,Product 17,Category 1,134,3,6.0
+952,953,2020-04-02,Online,Josephine Jones,295,Product 295,Category 1,291,1,-8.0
+953,954,2020-05-31,Online,Barry Sedgewick,480,Product 480,Category 2,225,1,108.0
+954,955,2019-04-30,In Store,Josephine Jackson,126,Product 126,Category 1,350,3,56.0
+955,956,2019-06-16,Online,Josephine Smith,204,Product 204,Category 1,122,7,20.0
+956,957,2021-08-31,Online,Geoff Carter,129,Product 129,Category 1,420,9,13.0
+957,958,2019-04-14,In Store,Claire Carter,350,Product 350,Category 2,269,5,35.0
+958,959,2021-08-31,Online,Simon Harper,292,Product 292,Category 1,378,6,42.0
+959,960,2020-04-13,In Store,Ben Jackson,275,Product 275,Category 1,226,8,7.0
+960,961,2021-02-07,Online,Josephine Davis,261,Product 261,Category 1,452,7,-13.0
+961,962,2020-06-20,In Store,Janet Jones,179,Product 179,Category 1,444,6,54.0
+962,963,2021-01-31,Online,Janet Gill,286,Product 286,Category 1,108,1,7.0
+963,964,2019-11-22,In Store,Jenny Sedgewick,330,Product 330,Category 1,192,6,-9.0
+964,965,2019-08-31,Online,Jenny Gill,331,Product 331,Category 1,71,4,-2.0
+965,966,2019-03-31,Online,Josephine Davis,254,Product 254,Category 1,318,9,55.0
+966,967,2020-02-08,In Store,Gillian Gill,349,Product 349,Category 1,15,1,3.0
+967,968,2021-02-06,Online,Janet Gill,495,Product 495,Category 2,115,5,42.0
+968,969,2021-12-31,In Store,Gillian Davis,138,Product 138,Category 1,211,2,28.0
+969,970,2021-10-31,Online,Ben Sedgewick,166,Product 166,Category 1,348,9,11.0
+970,971,2021-02-01,Online,Janet Davis,307,Product 307,Category 1,354,7,32.0
+971,972,2020-08-31,In Store,Ben Davis,390,Product 390,Category 2,89,7,6.0
+972,973,2021-01-31,In Store,Jenny Jones,323,Product 323,Category 1,37,7,-1.0
+973,974,2020-11-30,In Store,Gillian Carter,452,Product 452,Category 2,234,8,19.0
+974,975,2019-12-31,In Store,Terry Wilson,398,Product 398,Category 2,375,5,23.0
+975,976,2019-12-31,In Store,Josephine Wilson,143,Product 143,Category 1,246,3,5.0
+976,977,2021-09-05,Online,Josephine Harper,447,Product 447,Category 2,454,6,168.0
+977,978,2020-01-31,Online,Josephine Green,172,Product 172,Category 1,290,2,21.0
+978,979,2019-03-31,In Store,Terry Davis,255,Product 255,Category 1,238,5,34.0
+979,980,2020-05-31,Online,Claire Brown,70,Product 70,Category 1,212,1,-4.0
+980,981,2020-08-31,In Store,Ben Green,180,Product 180,Category 1,487,4,69.0
+981,982,2020-07-31,In Store,Geoff Brown,321,Product 321,Category 1,29,5,4.0
+982,983,2019-08-31,Online,Sandra Green,39,Product 39,Category 1,278,7,3.0
+983,984,2020-05-31,In Store,Ben Harper,157,Product 157,Category 1,126,7,21.0
+984,985,2020-08-31,Online,Steve Brown,337,Product 337,Category 1,484,5,10.0
+985,986,2019-05-31,Online,Ben Carter,185,Product 185,Category 1,13,7,3.0
+986,987,2019-01-31,In Store,Gillian Harper,439,Product 439,Category 2,418,7,80.0
+987,988,2021-01-31,Online,Jenny Carter,365,Product 365,Category 2,45,4,18.0
+988,989,2021-07-31,Online,Sandra Green,116,Product 116,Category 1,346,3,4.0
+989,990,2021-07-31,In Store,Sandra Wilson,58,Product 58,Category 1,125,2,23.0
+990,991,2021-01-31,In Store,Gillian Jackson,292,Product 292,Category 1,455,9,37.0
+991,992,2020-05-31,In Store,Josephine Davis,491,Product 491,Category 2,279,9,6.0
+992,993,2020-10-31,In Store,Barry Carter,368,Product 368,Category 2,129,6,10.0
+993,994,2019-12-31,In Store,Barry Smith,345,Product 345,Category 1,151,2,2.0
+994,995,2019-12-31,Online,Sandra Smith,259,Product 259,Category 1,137,9,-2.0
+995,996,2021-08-31,In Store,Steve Harper,8,Product 8,Category 1,362,5,69.0
+996,997,2020-12-31,In Store,Jenny Wilson,108,Product 108,Category 1,318,6,0.0
+997,998,2020-01-31,In Store,Barry Wilson,406,Product 406,Category 2,194,1,26.0
+998,999,2019-02-08,Online,Gillian Harper,289,Product 289,Category 1,233,7,14.0
