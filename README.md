@@ -131,9 +131,6 @@ Bar chart with 3 elements (using Color Continuous Scale)
 
 Scatter chart with Plotly (with Color for 3rd element)
 
-Cumulative Sales and Profit columns on Date Ordered Data Frame
-
-
 ## TOOLS
 
 pandas
